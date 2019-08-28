@@ -57,9 +57,7 @@ StackEdit stores your files in your browser, which means all your files are auto
 <fruits>
 	<fruitGroup>
 		<fruitGroupID></fruitGroupID>
-		<i></r>
-		<rt>
-			<name></name>
+		<name></name>
 		<description></description>
 		<uitID></fruID>
 		<fruit>
@@ -117,7 +115,7 @@ node fruits.fruitGroup
 		<statement>&#34;$FRUITS&#34;&#10;select fruitGroupID, 0, 0,&#10;3,&#10;2069,&#10;name, '',&#10;0,&#10;0,&#10;0, &#34;&#34;,&#10;&#34;&#34;, &#34;&#34;, 0, 0,&#10;0&#10;node fruits.fruitGroup</statement>
 		<in_parameters></in_parameters>
 		<out_parameters></out_parameters>
-		<description>!! Es werden max. 100 Produkte geladen !!</description>
+		<description>!! There will be max. 100 products loaded !!</description>
 		<hasstringids>0</hasstringids>
 </panelstatement>
 ```
@@ -150,7 +148,7 @@ orderby fruitID
 		<statement>&#34;$FRUITS&#34;&#10;select fruitID, &lt;parent.ID&gt;, 0,&#10;3,&#10;2022,&#10;name, '',&#10;toDelete,&#10;0,&#10;0, &#34;&#34;,&#10;&#34;&#34;, &#34;&#34;, 0, 0,&#10;pageitemid&#10;node fruits.fruitGroup&#10;where fruitGroupID = &lt;parent.ID&gt;&#10;node fruit&#10;orderby fruitID</statement>
 		<in_parameters></in_parameters>
 		<out_parameters></out_parameters>
-		<description>Ebene 2, Product</description>
+		<description>Level 2, Product</description>
 		<hasstringids>0</hasstringids>
 </panelstatement>
 ```
@@ -207,9 +205,9 @@ Find statement `findstatements.xml` select panel statement load to InDesign pane
 </findstatements>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MTgwOTk1LC0xMTcyNjc4NDI4LDc5Nz
-g5NDgwMyw1MjkwNDU4ODQsNjczMzMzNTQzLC04MTg2MzgyMzIs
-LTE0ODA4NDY2NjgsLTEwMjU2OTAxNjMsMjA5NjA5MDMxNywtMT
-UxMjk1NjExNiwtMTk1ODU0OTA5MSwxMDI2NzAxODU5LC0zMzI0
-NTUzNjNdfQ==
+eyJoaXN0b3J5IjpbLTIyODEzMjQ3MSwtMTE3MjY3ODQyOCw3OT
+c4OTQ4MDMsNTI5MDQ1ODg0LDY3MzMzMzU0MywtODE4NjM4MjMy
+LC0xNDgwODQ2NjY4LC0xMDI1NjkwMTYzLDIwOTYwOTAzMTcsLT
+E1MTI5NTYxMTYsLTE5NTg1NDkwOTEsMTAyNjcwMTg1OSwtMzMy
+NDU1MzYzXX0=
 -->
