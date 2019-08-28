@@ -119,9 +119,10 @@ node fruits.fruitGroup
 		<hasstringids>0</hasstringids>
 </panelstatement>
 ```
-#### Result after first panel statement query
+##### Result after first panel statement query
 ![](https://i.imgur.com/wx0jzoG.png)
 
+#### 3.2 Query statement in the panel statement for loading of all child of top level product.
 
 **Caution:** don't modifies default `<panelstatement>` if you don't clearly understand what you do.
 # 4. Find statement 
@@ -272,7 +273,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNTk0OTk2NiwtMTQ4MDg0NjY2OCwtMT
+eyJoaXN0b3J5IjpbLTgxODYzODIzMiwtMTQ4MDg0NjY2OCwtMT
 AyNTY5MDE2MywyMDk2MDkwMzE3LC0xNTEyOTU2MTE2LC0xOTU4
 NTQ5MDkxLDEwMjY3MDE4NTksLTMzMjQ1NTM2M119
 -->
