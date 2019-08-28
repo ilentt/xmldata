@@ -44,6 +44,7 @@ Data file `datafiles.xml` use definition data source need load into InDesign. Th
 	</datafile>
 </datafiles>
 ``` 
+#### resu
 # 2. Define product
 
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
@@ -264,7 +265,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEwNjU1MTk3LC0xNDgwODQ2NjY4LC0xMD
+eyJoaXN0b3J5IjpbLTUyMjIzNDU4LC0xNDgwODQ2NjY4LC0xMD
 I1NjkwMTYzLDIwOTYwOTAzMTcsLTE1MTI5NTYxMTYsLTE5NTg1
 NDkwOTEsMTAyNjcwMTg1OSwtMzMyNDU1MzYzXX0=
 -->
