@@ -195,8 +195,7 @@ Find statement `findstatements.xml` select panel statement load to InDesign pane
 		<description/>
 		<classid>3</classid>
 		<userid>0</userid>
-		<statement>
-		</statement>
+		<statement></statement>
 		<label>Show me cuisine name comon baby</label>
 		<sequencenr>10</sequencenr>
 		<hasstringids>0</hasstringids>
@@ -205,9 +204,9 @@ Find statement `findstatements.xml` select panel statement load to InDesign pane
 </findstatements>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDExODg0NzQ2LC0xMTcyNjc4NDI4LDc5Nz
-g5NDgwMyw1MjkwNDU4ODQsNjczMzMzNTQzLC04MTg2MzgyMzIs
-LTE0ODA4NDY2NjgsLTEwMjU2OTAxNjMsMjA5NjA5MDMxNywtMT
-UxMjk1NjExNiwtMTk1ODU0OTA5MSwxMDI2NzAxODU5LC0zMzI0
-NTUzNjNdfQ==
+eyJoaXN0b3J5IjpbLTE4ODE5NTA1ODQsLTExNzI2Nzg0MjgsNz
+k3ODk0ODAzLDUyOTA0NTg4NCw2NzMzMzM1NDMsLTgxODYzODIz
+MiwtMTQ4MDg0NjY2OCwtMTAyNTY5MDE2MywyMDk2MDkwMzE3LC
+0xNTEyOTU2MTE2LC0xOTU4NTQ5MDkxLDEwMjY3MDE4NTksLTMz
+MjQ1NTM2M119
 -->
