@@ -1,6 +1,6 @@
 # 1. Data file
 
-Data file use for definition 
+Data file `datafiles.xml` use definition data source need load to InDesign. The data file have main five attributes are `id`, ``
 
 
 # Files
@@ -142,5 +142,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MTQ4OTU2NywtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbMTAyNjcwMTg1OSwtMzMyNDU1MzYzXX0=
 -->
