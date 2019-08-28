@@ -177,7 +177,7 @@ node fruits.fruitGroup
 		<statement>&#34;$FRUITS&#34;&#10;select fruitGroupID, 0, 0,&#10;3,&#10;2069,&#10;name, '',&#10;0,&#10;10000,&#10;0, &#34;&#34;,&#10;&#34;&#34;, &#34;&#34;, 0, 0,&#10;0&#10;node fruits.fruitGroup</statement>
 		<in_parameters></in_parameters>
 		<out_parameters></out_parameters>
-		<description>!! Es werden max. 100 Produkte geladen !!</description>
+		<description>!! There will be max. 100 products loaded !!</description>
 		<hasstringids>0</hasstringids>
 </panelstatement>
 ```
@@ -207,8 +207,9 @@ Find statement `findstatements.xml` select panel statement load to InDesign pane
 </findstatements>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzI2Nzg0MjgsNzk3ODk0ODAzLDUyOT
-A0NTg4NCw2NzMzMzM1NDMsLTgxODYzODIzMiwtMTQ4MDg0NjY2
-OCwtMTAyNTY5MDE2MywyMDk2MDkwMzE3LC0xNTEyOTU2MTE2LC
-0xOTU4NTQ5MDkxLDEwMjY3MDE4NTksLTMzMjQ1NTM2M119
+eyJoaXN0b3J5IjpbLTk3MTgwOTk1LC0xMTcyNjc4NDI4LDc5Nz
+g5NDgwMyw1MjkwNDU4ODQsNjczMzMzNTQzLC04MTg2MzgyMzIs
+LTE0ODA4NDY2NjgsLTEwMjU2OTAxNjMsMjA5NjA5MDMxNywtMT
+UxMjk1NjExNiwtMTk1ODU0OTA5MSwxMDI2NzAxODU5LC0zMzI0
+NTUzNjNdfQ==
 -->
