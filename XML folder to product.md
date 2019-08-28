@@ -111,7 +111,7 @@ Panel statement `panelstatements.xml` contain query statement select product loa
 	</panelstatement>
 <panelstatements>
 ```
-**Caution:** d
+**Caution:** don't modifie default `<panelstatement>` if you don
 # 4. Find statement 
 
 Find statement `findstatements.xml` select panel statement load to InDesign panel.
@@ -260,6 +260,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MTUxNTU4NSwtMTUxMjk1NjExNiwtMT
+eyJoaXN0b3J5IjpbMTA4NDE2Njk3MywtMTUxMjk1NjExNiwtMT
 k1ODU0OTA5MSwxMDI2NzAxODU5LC0zMzI0NTUzNjNdfQ==
 -->
