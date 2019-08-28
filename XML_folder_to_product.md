@@ -1,5 +1,4 @@
 # 1. Data file
-
 Data file `datafiles.xml` use definition data source need load into InDesign. The data file structure have main five attributes are `id`, `path`, `alias`, `description` and `enable`
 ```xml
 <datafiles>
@@ -187,7 +186,6 @@ node fruits.fruitGroup
 		<hasstringids>0</hasstringids>
 </panelstatement>
 ```
-
 #### 3.4 Final result
 ![](https://i.imgur.com/PbMEfC4.png)
 
@@ -212,5 +210,5 @@ Find statement `findstatements.xml` select panel statement load to InDesign pane
 </findstatements>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Nzk3MTkzNCwxOTUzNTM4MTc1XX0=
+eyJoaXN0b3J5IjpbLTE5MTgwMTE4MDYsMTk1MzUzODE3NV19
 -->
