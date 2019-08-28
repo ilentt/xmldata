@@ -86,9 +86,10 @@ StackEdit stores your files in your browser, which means all your files are auto
 			<toDelete>0</toDelete>
 		</cuisine>
 	</cuisineGroup>
+<cuisines>
 ```
 
-## Create files and folders
+# 3. Panel Statement
 
 The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
 
@@ -223,6 +224,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MzY0MTMyMiwxMDI2NzAxODU5LC0zMz
-I0NTUzNjNdfQ==
+eyJoaXN0b3J5IjpbNjQ0MjMxMDIxLDEwMjY3MDE4NTksLTMzMj
+Q1NTM2M119
 -->
