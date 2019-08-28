@@ -67,12 +67,11 @@ StackEdit stores your files in your browser, which means all your files are auto
 			<ordernumber></ordernumber>
 			<price></price>
 		</fruit>
-		...
+		...one or more fruit...
 	</fruitGroup>
-	...one or more ...
+	...one or more group...
 <fruits>
 ```
-
 # 3. Panel Statement
 
 Panel statement `panelstatements.xml` contain query statement select product load into InDesign
@@ -241,7 +240,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNjc3OTUzMywtMTAyNTY5MDE2MywyMD
-k2MDkwMzE3LC0xNTEyOTU2MTE2LC0xOTU4NTQ5MDkxLDEwMjY3
-MDE4NTksLTMzMjQ1NTM2M119
+eyJoaXN0b3J5IjpbLTE1Nzc1NTk5MzYsLTEwMjU2OTAxNjMsMj
+A5NjA5MDMxNywtMTUxMjk1NjExNiwtMTk1ODU0OTA5MSwxMDI2
+NzAxODU5LC0zMzI0NTUzNjNdfQ==
 -->
