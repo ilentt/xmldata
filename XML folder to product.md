@@ -152,7 +152,11 @@ orderby fruitID
 		<hasstringids>0</hasstringids>
 </panelstatement>
 ```
-##### Link Panel statement after endcode
+#### 3.3 Point panel statement at `3.1` to `3.2`
+```xml
+
+```
+
 **Caution:** don't modifies default `<panelstatement>` if you don't clearly understand what you do.
 # 4. Find statement 
 
@@ -302,8 +306,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU5Njg3OTUsLTgxODYzODIzMiwtMTQ4MD
-g0NjY2OCwtMTAyNTY5MDE2MywyMDk2MDkwMzE3LC0xNTEyOTU2
-MTE2LC0xOTU4NTQ5MDkxLDEwMjY3MDE4NTksLTMzMjQ1NTM2M1
-19
+eyJoaXN0b3J5IjpbLTEzMzQ1MzAxNjgsLTgxODYzODIzMiwtMT
+Q4MDg0NjY2OCwtMTAyNTY5MDE2MywyMDk2MDkwMzE3LC0xNTEy
+OTU2MTE2LC0xOTU4NTQ5MDkxLDEwMjY3MDE4NTksLTMzMjQ1NT
+M2M119
 -->
