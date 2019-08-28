@@ -123,7 +123,22 @@ node fruits.fruitGroup
 ![](https://i.imgur.com/wx0jzoG.png)
 
 #### 3.2 Query statement in the panel statement for loading of all child of top level product.
-
+```xml
+"$FRUITS"
+select fruitID, <parent.ID>, 0,
+3,
+2022,
+name, '',
+toDelete,
+0,
+0, "",
+"", "", 0, 0,
+pageitemid
+node fruits.fruitGroup
+where fruitGroupID = <parent.ID>
+node fruit
+orderby fruitID
+```
 **Caution:** don't modifies default `<panelstatement>` if you don't clearly understand what you do.
 # 4. Find statement 
 
@@ -273,7 +288,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxODYzODIzMiwtMTQ4MDg0NjY2OCwtMT
-AyNTY5MDE2MywyMDk2MDkwMzE3LC0xNTEyOTU2MTE2LC0xOTU4
-NTQ5MDkxLDEwMjY3MDE4NTksLTMzMjQ1NTM2M119
+eyJoaXN0b3J5IjpbLTY0MTQ4NjIwMiwtODE4NjM4MjMyLC0xND
+gwODQ2NjY4LC0xMDI1NjkwMTYzLDIwOTYwOTAzMTcsLTE1MTI5
+NTYxMTYsLTE5NTg1NDkwOTEsMTAyNjcwMTg1OSwtMzMyNDU1Mz
+YzXX0=
 -->
