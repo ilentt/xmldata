@@ -154,10 +154,9 @@ orderby fruitID
 		<hasstringids>0</hasstringids>
 </panelstatement>
 ```
-#### 3.3 Point p# Link Panel statement at `3.1` to `3.2`
+#### 3.3 Query statement point panel statement at `3.1` to `3.2`
 ```xml
-
-fter endcode"$FRUITS"
+"$FRUITS"
 select fruitGroupID, 0, 0,
 3,
 2069,
@@ -332,8 +331,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI5MDQ1ODg0LDY3MzMzMzU0MywtODE4Nj
-M4MjMyLC0xNDgwODQ2NjY4LC0xMDI1NjkwMTYzLDIwOTYwOTAz
-MTcsLTE1MTI5NTYxMTYsLTE5NTg1NDkwOTEsMTAyNjcwMTg1OS
-wtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbMzEyNTMyNjA5LDUyOTA0NTg4NCw2NzMzMz
+M1NDMsLTgxODYzODIzMiwtMTQ4MDg0NjY2OCwtMTAyNTY5MDE2
+MywyMDk2MDkwMzE3LC0xNTEyOTU2MTE2LC0xOTU4NTQ5MDkxLD
+EwMjY3MDE4NTksLTMzMjQ1NTM2M119
 -->
