@@ -31,7 +31,7 @@ Data file `datafiles.xml` use definition data source need load into InDesign. Th
 	<datafile>
 		<id>1</id>
 		<path>fruits.xml</path>
-		<alias>FRUIT</alias>
+		<alias>FRUITS</alias>
 		<description>Data source Vietnam cuisine</description>
 		<enabled>1</enabled>
 	</datafile>
@@ -71,7 +71,7 @@ StackEdit stores your files in your browser, which means all your files are auto
 </fruits>
 ```
 
-# 3 Panel Statement
+# 3. Panel statement
 
 Panel statement `panelstatements.xml` contain query statement select product load into InDesign
 ```xml
@@ -88,7 +88,7 @@ Panel statement `panelstatements.xml` contain query statement select product loa
 	</panelstatement>
 <panelstatements>
 ```
-##### Query statement in the panel statement id `55` for loading of all top level objects.
+#### 3.1 Query statement in the panel statement id `55` for loading of all top level objects.
 ```xml
 "$FRUITS"
 select fruitGroupID, 0, 0,
@@ -264,7 +264,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc4NjE4MTc5LC0xNDgwODQ2NjY4LC0xMD
+eyJoaXN0b3J5IjpbODEwNjU1MTk3LC0xNDgwODQ2NjY4LC0xMD
 I1NjkwMTYzLDIwOTYwOTAzMTcsLTE1MTI5NTYxMTYsLTE5NTg1
 NDkwOTEsMTAyNjcwMTg1OSwtMzMyNDU1MzYzXX0=
 -->
