@@ -50,15 +50,13 @@ StackEdit stores your files in your browser, which means all your files are auto
 
 #### example
 ```xml
-<uits
-<froup>
+<uitsroup>
 		<uitroupID></uitroupID>
 		<name></name>
 		<description></description>
 		<gridid></gridid>
 		<masterpage></masterpage>
-		<uit
-		<ID></rutID>
+		<uitID></fruID>
 name></name>
 			<image></image>
 			<country></country>
@@ -92,6 +90,19 @@ Panel statement `panelstatements.xml` contain query statement select product loa
 <panelstatements>
 ```
 First the panel statement id `55` for loading of all top level objects.
+```xml
+"$FRUITS"
+select fruitGroupID, 0, 0,
+3,
+2069,
+name, '',
+0,
+0,
+0, "",
+"", "", 0, 0,
+0
+node fruits.fruitGroup
+```
 
 **Caution:** don't modifies default `<panelstatement>` if you don't clearly understand what you do.
 # 4. Find statement 
@@ -242,7 +253,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODA4NDY2NjgsLTE1Nzc1NTk5MzYsLT
-EwMjU2OTAxNjMsMjA5NjA5MDMxNywtMTUxMjk1NjExNiwtMTk1
-ODU0OTA5MSwxMDI2NzAxODU5LC0zMzI0NTUzNjNdfQ==
+eyJoaXN0b3J5IjpbMTQ0MjgzMTAxNSwtMTQ4MDg0NjY2OCwtMT
+AyNTY5MDE2MywyMDk2MDkwMzE3LC0xNTEyOTU2MTE2LC0xOTU4
+NTQ5MDkxLDEwMjY3MDE4NTksLTMzMjQ1NTM2M119
 -->
