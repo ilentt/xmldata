@@ -91,7 +91,26 @@ StackEdit stores your files in your browser, which means all your files are auto
 
 # 3. Panel Statement
 
-The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
+Panel statement contain query statement select product load into InDesign
+```xml
+<panelstatements>
+	<panelstatement>
+		<id>92</id>
+		<usage>after login</usage>
+		<domain></domain>
+		<statement>
+			int main ()
+			{
+				return 0;
+			}
+		</statement>
+		<in_parameters></in_parameters>
+		<out_parameters></out_parameters>
+		<description>Aktiviere/Deaktiviere einen Datendatei-Eintrag</description>
+		<hasstringids>0</hasstringids>
+	</panelstatement>
+<panelstatements>
+```
 
 ## Switch to another file
 
@@ -224,6 +243,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ0MjMxMDIxLDEwMjY3MDE4NTksLTMzMj
-Q1NTM2M119
+eyJoaXN0b3J5IjpbLTczMzM3NzM0MywxMDI2NzAxODU5LC0zMz
+I0NTUzNjNdfQ==
 -->
