@@ -141,7 +141,7 @@ where fruitGroupID = <parent.ID>
 node fruit
 orderby fruitID
 ```
-##### Panel statement after endcode
+##### Panel statement after encode
 ```html
 <panelstatement>
 		<id>10000</id>
@@ -157,8 +157,32 @@ orderby fruitID
 #### 3.3 Point p# Link Panel statement at `3.1` to `3.2`
 ```xml
 
+fter endcode"$FRUITS"
+select fruitGroupID, 0, 0,
+3,
+2069,
+name, '',
+0,
+10000,
+0, "",
+"", "", 0, 0,
+0
+node fruits.fruitGroup
 ```
-fter endcode
+##### Panel statement after encode
+```xml
+<panelstatement>
+		<id>55</id>
+		<usage>Level 1, fruitGroup</usage>
+		<domain>Select all fruit group at level 1 by fruitGroupID and Name</domain>
+		<statement>&#34;$FRUITS&#34;&#10;select fruitGroupID, 0, 0,&#10;3,&#10;2069,&#10;name, '',&#10;0,&#10;10000,&#10;0, &#34;&#34;,&#10;&#34;&#34;, &#34;&#34;, 0, 0,&#10;0&#10;node fruits.fruitGroup</statement>
+		<in_parameters></in_parameters>
+		<out_parameters></out_parameters>
+		<description>!! Es werden max. 100 Produkte geladen !!</description>
+		<hasstringids>0</hasstringids>
+</panelstatement>
+```
+
 **Caution:** don't modifies default `<panelstatement>` if you don't clearly understand what you do.
 # 4. Find statement 
 
@@ -308,8 +332,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjczMzMzNTQzLC0xMzM0NTMwMTY4LC04MT
-g2MzgyMzIsLTE0ODA4NDY2NjgsLTEwMjU2OTAxNjMsMjA5NjA5
-MDMxNywtMTUxMjk1NjExNiwtMTk1ODU0OTA5MSwxMDI2NzAxOD
-U5LC0zMzI0NTUzNjNdfQ==
+eyJoaXN0b3J5IjpbNTI5MDQ1ODg0LDY3MzMzMzU0MywtODE4Nj
+M4MjMyLC0xNDgwODQ2NjY4LC0xMDI1NjkwMTYzLDIwOTYwOTAz
+MTcsLTE1MTI5NTYxMTYsLTE5NTg1NDkwOTEsMTAyNjcwMTg1OS
+wtMzMyNDU1MzYzXX0=
 -->
