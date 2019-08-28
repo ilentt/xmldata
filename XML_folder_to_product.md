@@ -191,7 +191,7 @@ node fruits.fruitGroup
 #### 3.4 Final result
 ![](https://i.imgur.com/PbMEfC4.png)
 
-**Caution:** don't modifies default `<panelstatement>` if you don't clearly understand what you do.
+**Caution:** don't modifies default `<panelstatement>` if you don't clearly understand what you do. More detail document at `InDesign/Plugins/products.html#Rueckgabewerte`
 # 4. Find statement 
 
 Find statement `findstatements.xml` select panel statement load to InDesign panel.
@@ -212,5 +212,5 @@ Find statement `findstatements.xml` select panel statement load to InDesign pane
 </findstatements>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MzUzODE3NV19
+eyJoaXN0b3J5IjpbLTE5Nzk3MTkzNCwxOTUzNTM4MTc1XX0=
 -->
