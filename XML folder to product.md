@@ -74,8 +74,7 @@ StackEdit stores your files in your browser, which means all your files are auto
 				<img>Pictures/sample03.jpg</img>
 			</sample>
 			<author>Jodorowsky/Moebius</author>
-			<description>Als John Difool  (&#xa9;&#xae; m&#xb2; m&#xb3;, m&#xb9;, &#xbc;, &#xbd;, &#xbe;), Privatdetektiv Klasse R, in den Luftsch&#228;chten der Zukunftsstadt von einem halbtoten Untier den Incal zugeschoben bekommt, kann er noch nicht ahnen, da&#223; ihm dieses vielseitige Wunderding nichts als &#196;rger einbringen wird.
-Nur mit M&#252;he entgehen John Difool und sein Betonpapagei Dipo einer Serie von Anschl&#228;gen ...</description>
+			<description></description>
 			<isbn>3-551-02771-4</isbn>
 			<ordernumber>692674</ordernumber>
 			<price>14,99</price>
@@ -86,6 +85,7 @@ Nur mit M&#252;he entgehen John Difool und sein Betonpapagei Dipo einer Serie vo
 			<pageitemid2>2</pageitemid2>			
 			<toDelete>0</toDelete>
 		</cuisine>
+	</cuisineGroup>
 ```
 
 ## Create files and folders
@@ -223,6 +223,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2OTM0ODk1MywxMDI2NzAxODU5LC0zMz
+eyJoaXN0b3J5IjpbMTI1MzY0MTMyMiwxMDI2NzAxODU5LC0zMz
 I0NTUzNjNdfQ==
 -->
