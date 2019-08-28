@@ -16,7 +16,7 @@ Data file `datafiles.xml` use definition data source need load into InDesign. Th
 - `path` : path link to data product definition
 - `alias` : short name represent path, it's also variable name using query select product statement
 - `description` : description data file(option)
-- `` 
+- `enable` : accepted two values are `1` stand for enable and `0`  
 
 
 # Files
@@ -158,6 +158,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDIxNDgyMDgsMTAyNjcwMTg1OSwtMz
-MyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbLTMwOTk2NDQ5NCwxMDI2NzAxODU5LC0zMz
+I0NTUzNjNdfQ==
 -->
