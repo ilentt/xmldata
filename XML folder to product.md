@@ -59,7 +59,7 @@ StackEdit stores your files in your browser, which means all your files are auto
 		<fruitGroupID></fruitGroupID>
 		<name></name>
 		<description></description>
-		<uitID></fruID>
+		<fruitID></fruitID>
 		<fruit>
 			<name></name>
 			<image></image>
@@ -205,9 +205,9 @@ Find statement `findstatements.xml` select panel statement load to InDesign pane
 </findstatements>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyODEzMjQ3MSwtMTE3MjY3ODQyOCw3OT
-c4OTQ4MDMsNTI5MDQ1ODg0LDY3MzMzMzU0MywtODE4NjM4MjMy
-LC0xNDgwODQ2NjY4LC0xMDI1NjkwMTYzLDIwOTYwOTAzMTcsLT
-E1MTI5NTYxMTYsLTE5NTg1NDkwOTEsMTAyNjcwMTg1OSwtMzMy
-NDU1MzYzXX0=
+eyJoaXN0b3J5IjpbNDExODg0NzQ2LC0xMTcyNjc4NDI4LDc5Nz
+g5NDgwMyw1MjkwNDU4ODQsNjczMzMzNTQzLC04MTg2MzgyMzIs
+LTE0ODA4NDY2NjgsLTEwMjU2OTAxNjMsMjA5NjA5MDMxNywtMT
+UxMjk1NjExNiwtMTk1ODU0OTA5MSwxMDI2NzAxODU5LC0zMzI0
+NTUzNjNdfQ==
 -->
