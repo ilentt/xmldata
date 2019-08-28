@@ -95,22 +95,19 @@ Panel statement `panelstatements.xml` contain query statement select product loa
 ```xml
 <panelstatements>
 	<panelstatement>
-		<id>92</id>
-		<usage>after login</usage>
+		<id></id>
+		<usage></usage>
 		<domain></domain>
-		<statement>
-			int main ()
-			{
-				return 0;
-			}
-		</statement>
+		<statement></statement>
 		<in_parameters></in_parameters>
 		<out_parameters></out_parameters>
-		<description>Aktiviere/Deaktiviere einen Datendatei-Eintrag</description>
-		<hasstringids>0</hasstringids>
+		<description></description>
+		<hasstringids></hasstringids>
 	</panelstatement>
 <panelstatements>
 ```
+First the panel statement id `55` for loading of all top level objects.
+
 **Caution:** don't modifies default `<panelstatement>` if you don't clearly understand what you do.
 # 4. Find statement 
 
@@ -260,6 +257,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NjA5MDMxNywtMTUxMjk1NjExNiwtMT
-k1ODU0OTA5MSwxMDI2NzAxODU5LC0zMzI0NTUzNjNdfQ==
+eyJoaXN0b3J5IjpbLTEwMjU2OTAxNjMsMjA5NjA5MDMxNywtMT
+UxMjk1NjExNiwtMTk1ODU0OTA5MSwxMDI2NzAxODU5LC0zMzI0
+NTUzNjNdfQ==
 -->
