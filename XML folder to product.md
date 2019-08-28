@@ -91,7 +91,7 @@ StackEdit stores your files in your browser, which means all your files are auto
 
 # 3. Panel Statement
 
-Panel statement contain query statement select product load into InDesign
+Panel statement `panelstatements.xml` contain query statement select product load into InDesign
 ```xml
 <panelstatements>
 	<panelstatement>
@@ -114,7 +114,7 @@ Panel statement contain query statement select product load into InDesign
 
 # 4. Find statement 
 
-Find statement select panel statement load to InDesign panel.
+Find statement `findstatements.xml` select panel statement load to InDesign panel.
 ```html
 <?xml version="1.0" encoding="utf-8"?>
 <findstatements>
@@ -260,6 +260,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTg1NDkwOTEsMTAyNjcwMTg1OSwtMz
-MyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbLTE1MTI5NTYxMTYsLTE5NTg1NDkwOTEsMT
+AyNjcwMTg1OSwtMzMyNDU1MzYzXX0=
 -->
