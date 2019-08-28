@@ -36,7 +36,7 @@ Data file `datafiles.xml` use definition data source need load into InDesign. Th
 		<enabled>1</enabled>
 	</datafile>
 	<datafile>
-		<id>2</id>
+		<id></id>
 		<path>images</path>
 		<alias>image</alias>
 		<description>Picture Vietnam cuisine</description>
@@ -50,16 +50,16 @@ StackEdit stores your files in your browser, which means all your files are auto
 
 #### example
 ```xml
-<fruits>
-	<fruitGroup>
-		<fruitGroupID></fruitGroupID>
+<uits
+<froup>
+		<uitroupID></uitroupID>
 		<name></name>
 		<description></description>
 		<gridid></gridid>
 		<masterpage></masterpage>
-		<fruit>
-			<fruitID></fruitID>
-			<name></name>
+		<uit
+		<ID></rutID>
+name></name>
 			<image></image>
 			<country></country>
 			<description></description>
@@ -70,9 +70,11 @@ StackEdit stores your files in your browser, which means all your files are auto
 		...one or more fruit...
 	</fruitGroup>
 	...one or more group...
-<fruits>
+<fruitoe
+<ruis>
 ```
-# 3. Panel Statement
+
+# 3 Panel Statement
 
 Panel statement `panelstatements.xml` contain query statement select product load into InDesign
 ```xml
@@ -240,7 +242,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Nzc1NTk5MzYsLTEwMjU2OTAxNjMsMj
-A5NjA5MDMxNywtMTUxMjk1NjExNiwtMTk1ODU0OTA5MSwxMDI2
-NzAxODU5LC0zMzI0NTUzNjNdfQ==
+eyJoaXN0b3J5IjpbLTE0ODA4NDY2NjgsLTE1Nzc1NTk5MzYsLT
+EwMjU2OTAxNjMsMjA5NjA5MDMxNywtMTUxMjk1NjExNiwtMTk1
+ODU0OTA5MSwxMDI2NzAxODU5LC0zMzI0NTUzNjNdfQ==
 -->
