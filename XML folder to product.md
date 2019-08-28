@@ -30,8 +30,8 @@ Data file `datafiles.xml` use definition data source need load into InDesign. Th
     </datafile>
 	<datafile>
 		<id>1</id>
-		<path>cuisine.xml</path>
-		<alias>DATAFILE</alias>
+		<path>fruits.xml</path>
+		<alias>FRUIT</alias>
 		<description>Data source Vietnam cuisine</description>
 		<enabled>1</enabled>
 	</datafile>
@@ -102,7 +102,19 @@ name, '',
 0
 node fruits.fruitGroup
 ```
-
+##### Panel statement after encode
+```xml
+<panelstatement>
+		<id>55</id>
+		<usage>Get fruitGroupID level 1</usage>
+		<domain>Select all fruit group at level 1 by fruitGroupID and name</domain>
+		<statement>&#34;$FRUITS&#34;&#10;select fruitGroupID, 0, 0,&#10;3,&#10;2069,&#10;name, '',&#10;0,&#10;0,&#10;0, &#34;&#34;,&#10;&#34;&#34;, &#34;&#34;, 0, 0,&#10;0&#10;node fruits.fruitGroup</statement>
+		<in_parameters></in_parameters>
+		<out_parameters></out_parameters>
+		<description>!! Es werden max. 100 Produkte geladen !!</description>
+		<hasstringids>0</hasstringids>
+</panelstatement>
+```
 **Caution:** don't modifies default `<panelstatement>` if you don't clearly understand what you do.
 # 4. Find statement 
 
@@ -252,7 +264,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4OTg1ODIxNCwtMTQ4MDg0NjY2OCwtMT
-AyNTY5MDE2MywyMDk2MDkwMzE3LC0xNTEyOTU2MTE2LC0xOTU4
-NTQ5MDkxLDEwMjY3MDE4NTksLTMzMjQ1NTM2M119
+eyJoaXN0b3J5IjpbNzc4NjE4MTc5LC0xNDgwODQ2NjY4LC0xMD
+I1NjkwMTYzLDIwOTYwOTAzMTcsLTE1MTI5NTYxMTYsLTE5NTg1
+NDkwOTEsMTAyNjcwMTg1OSwtMzMyNDU1MzYzXX0=
 -->
