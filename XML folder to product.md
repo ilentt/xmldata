@@ -1,21 +1,18 @@
 # 1. Data file
 
-Data file `datafiles.xml` use definition data source need load into InDesign. The data file have main five attributes are `id`, `path`, `alias`, `description` and `enable`
-
-#### Example
-
-```java
+Data file `datafiles.xml` use definition data source need load into InDesign. The data file structure have main five attributes are `id`, `path`, `alias`, `description` and `enable`
+```xml
 <datafiles>
- <datafile>
-  <id>0</id>
-  <path></path>
-  <alias></alias>
-  <description>no</description>
-  <enabled>0</enabled>
- </datafile>
- <datafiles>
+	<datafile>
+		<id></id>
+		<path></path>
+		<alias></alias>
+		<description></description>
+		<enabled></enabled>
+	</datafile>
+<datafiles>
 ```
-
+- `id` : 
 
 # Files
 
@@ -156,6 +153,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1OTk4MjI0MiwxMDI2NzAxODU5LC0zMz
-I0NTUzNjNdfQ==
+eyJoaXN0b3J5IjpbODAyMjU5ODUxLDEwMjY3MDE4NTksLTMzMj
+Q1NTM2M119
 -->
