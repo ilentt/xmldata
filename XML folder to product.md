@@ -114,7 +114,24 @@ Panel statement contain query statement select product load into InDesign
 
 # 4. Find statement 
 
-Find statement select panel statement load to p
+Find statement select panel statement load to InDesign panel.
+```html
+<?xml version="1.0" encoding="utf-8"?>
+<findstatements>
+	<findstatement>
+		<id>1</id>
+		<description/>
+		<classid>3</classid>
+		<userid>0</userid>
+		<statement>
+		</statement>
+		<label>Show me cuisine name comon baby</label>
+		<sequencenr>10</sequencenr>
+		<hasstringids>0</hasstringids>
+		<candelete>0</candelete>
+	</findstatement>
+</findstatements>
+```
 
 ## Rename a file
 
@@ -243,6 +260,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3ODA1NTUyMiwxMDI2NzAxODU5LC0zMz
-I0NTUzNjNdfQ==
+eyJoaXN0b3J5IjpbLTE5NTg1NDkwOTEsMTAyNjcwMTg1OSwtMz
+MyNDU1MzYzXX0=
 -->
