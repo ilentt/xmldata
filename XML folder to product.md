@@ -112,9 +112,9 @@ Panel statement contain query statement select product load into InDesign
 <panelstatements>
 ```
 
-## Switch to another file
+# 4. Find statement 
 
-All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
+Find statement select panel statement load to p
 
 ## Rename a file
 
@@ -243,6 +243,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMzM3NzM0MywxMDI2NzAxODU5LC0zMz
+eyJoaXN0b3J5IjpbLTc3ODA1NTUyMiwxMDI2NzAxODU5LC0zMz
 I0NTUzNjNdfQ==
 -->
