@@ -30,7 +30,7 @@ Data file `datafiles.xml` use definition data source need load into InDesign. Th
     </datafile>
 	<datafile>
 		<id>1</id>
-		<path>fruits.xml</path>
+		<path>uits.ml</path>
 		<alias>FRUITS</alias>
 		<description>Data source Vietnam cuisine</description>
 		<enabled>1</enabled>
@@ -57,7 +57,9 @@ StackEdit stores your files in your browser, which means all your files are auto
 <fruits>
 	<fruitGroup>
 		<fruitGroupID></fruitGroupID>
-		<name></name>
+		<i></r>
+		<rt>
+			<name></name>
 		<description></description>
 		<uitID></fruID>
 		<fruit>
@@ -106,7 +108,7 @@ name, '',
 0
 node fruits.fruitGroup
 ```
-##### Panel statement after encode
+##### Panel tatement after encode
 ```xml
 <panelstatement>
 		<id>55</id>
@@ -152,11 +154,11 @@ orderby fruitID
 		<hasstringids>0</hasstringids>
 </panelstatement>
 ```
-#### 3.3 Point panel statement at `3.1` to `3.2`
+#### 3.3 Point p# Link Panel statement at `3.1` to `3.2`
 ```xml
 
 ```
-
+fter endcode
 **Caution:** don't modifies default `<panelstatement>` if you don't clearly understand what you do.
 # 4. Find statement 
 
@@ -306,8 +308,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzQ1MzAxNjgsLTgxODYzODIzMiwtMT
-Q4MDg0NjY2OCwtMTAyNTY5MDE2MywyMDk2MDkwMzE3LC0xNTEy
-OTU2MTE2LC0xOTU4NTQ5MDkxLDEwMjY3MDE4NTksLTMzMjQ1NT
-M2M119
+eyJoaXN0b3J5IjpbNjczMzMzNTQzLC0xMzM0NTMwMTY4LC04MT
+g2MzgyMzIsLTE0ODA4NDY2NjgsLTEwMjU2OTAxNjMsMjA5NjA5
+MDMxNywtMTUxMjk1NjExNiwtMTk1ODU0OTA5MSwxMDI2NzAxOD
+U5LC0zMzI0NTUzNjNdfQ==
 -->
