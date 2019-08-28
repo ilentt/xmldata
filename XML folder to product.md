@@ -89,7 +89,7 @@ Panel statement `panelstatements.xml` contain query statement select product loa
 	</panelstatement>
 <panelstatements>
 ```
-First the panel statement id `55` for loading of all top level objects.
+query statement in the panel statement id `55` for loading of all top level objects.
 ```xml
 "$FRUITS"
 select fruitGroupID, 0, 0,
@@ -253,7 +253,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MjgzMTAxNSwtMTQ4MDg0NjY2OCwtMT
-AyNTY5MDE2MywyMDk2MDkwMzE3LC0xNTEyOTU2MTE2LC0xOTU4
-NTQ5MDkxLDEwMjY3MDE4NTksLTMzMjQ1NTM2M119
+eyJoaXN0b3J5IjpbLTE3OTY0MjIyMzcsLTE0ODA4NDY2NjgsLT
+EwMjU2OTAxNjMsMjA5NjA5MDMxNywtMTUxMjk1NjExNiwtMTk1
+ODU0OTA5MSwxMDI2NzAxODU5LC0zMzI0NTUzNjNdfQ==
 -->
