@@ -50,7 +50,42 @@ StackEdit stores your files in your browser, which means all your files are auto
 
 #### example
 ```xml
-
+<cuisines>
+	<cuisineGroup>
+		<cuisineGroupID></cuisineGroupID>
+		<name></name>
+		<description></description>
+		<gridid></gridid>
+		<masterpage></masterpage>
+		<cuisine>
+			<cuisineID>100</cuisineID>
+			<titel></titel>
+			<image>Pictures/cartoon01.jpg</image>
+			<sample>
+				<ID>1</ID>
+				<img>Pictures/sample01.jpg</img>
+			</sample>
+			<sample>
+				<ID>2</ID>
+				<img>Pictures/sample02.jpg</img>
+			</sample>
+			<sample>
+				<ID>3</ID>
+				<img>Pictures/sample03.jpg</img>
+			</sample>
+			<author>Jodorowsky/Moebius</author>
+			<description>Als John Difool  (&#xa9;&#xae; m&#xb2; m&#xb3;, m&#xb9;, &#xbc;, &#xbd;, &#xbe;), Privatdetektiv Klasse R, in den Luftsch&#228;chten der Zukunftsstadt von einem halbtoten Untier den Incal zugeschoben bekommt, kann er noch nicht ahnen, da&#223; ihm dieses vielseitige Wunderding nichts als &#196;rger einbringen wird.
+Nur mit M&#252;he entgehen John Difool und sein Betonpapagei Dipo einer Serie von Anschl&#228;gen ...</description>
+			<isbn>3-551-02771-4</isbn>
+			<ordernumber>692674</ordernumber>
+			<price>14,99</price>
+			<pageitemid>399</pageitemid>
+			<pageitemid>399</pageitemid>
+			<position>top</position>
+			<placeid>1</placeid>
+			<pageitemid2>2</pageitemid2>			
+			<toDelete>0</toDelete>
+		</cuisine>
 ```
 
 ## Create files and folders
@@ -188,6 +223,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMjY1MDY0NCwxMDI2NzAxODU5LC0zMz
+eyJoaXN0b3J5IjpbLTQ2OTM0ODk1MywxMDI2NzAxODU5LC0zMz
 I0NTUzNjNdfQ==
 -->
