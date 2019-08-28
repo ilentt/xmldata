@@ -16,10 +16,35 @@ Data file `datafiles.xml` use definition data source need load into InDesign. Th
 - `path` : path link to data product definition
 - `alias` : short name represent path, it's also variable name using query select product statement
 - `description` : description data file(option)
-- `enable` : accepted two values are `1` stand for enable and `0`  
+- `enable` : accepted two values are `1` stand for enable and `0` stand for disable
 
-
-# Files
+#### Example:
+```xml
+<datafiles>
+    <datafile>
+		<id>0</id>
+		<path></path>
+		<alias></alias>
+		<description>no</description>
+		<enabled>0</enabled>
+    </datafile>
+	<datafile>
+		<id>1</id>
+		<path>cuisine.xml</path>
+		<alias>DATAFILE</alias>
+		<description>Data source Vietnam cuisine</description>
+		<enabled>1</enabled>
+	</datafile>
+	<datafile>
+		<id>2</id>
+		<path>images</path>
+		<alias>image</alias>
+		<description>Picture Vietnam cuisine</description>
+		<enabled>1</enabled>
+	</datafile>
+</datafiles>
+``` 
+# 2. Files
 
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
 
@@ -158,6 +183,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwOTk2NDQ5NCwxMDI2NzAxODU5LC0zMz
-I0NTUzNjNdfQ==
+eyJoaXN0b3J5IjpbLTE3NDU2NjI3NTYsMTAyNjcwMTg1OSwtMz
+MyNDU1MzYzXX0=
 -->
