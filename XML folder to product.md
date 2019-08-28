@@ -12,7 +12,9 @@ Data file `datafiles.xml` use definition data source need load into InDesign. Th
 	</datafile>
 <datafiles>
 ```
-- `id` : 
+- `id` : start at 1 and always unique
+- `path` : path link to data product definition
+- `alias` : short name represent path e 
 
 # Files
 
@@ -153,6 +155,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAyMjU5ODUxLDEwMjY3MDE4NTksLTMzMj
+eyJoaXN0b3J5IjpbMjcyMTM1NDg4LDEwMjY3MDE4NTksLTMzMj
 Q1NTM2M119
 -->
