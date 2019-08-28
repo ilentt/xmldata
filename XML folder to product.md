@@ -182,6 +182,9 @@ node fruits.fruitGroup
 </panelstatement>
 ```
 
+#### 3.4 Final result
+
+
 **Caution:** don't modifies default `<panelstatement>` if you don't clearly understand what you do.
 # 4. Find statement 
 
@@ -331,7 +334,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEyNTMyNjA5LDUyOTA0NTg4NCw2NzMzMz
+eyJoaXN0b3J5IjpbNzk3ODk0ODAzLDUyOTA0NTg4NCw2NzMzMz
 M1NDMsLTgxODYzODIzMiwtMTQ4MDg0NjY2OCwtMTAyNTY5MDE2
 MywyMDk2MDkwMzE3LC0xNTEyOTU2MTE2LC0xOTU4NTQ5MDkxLD
 EwMjY3MDE4NTksLTMzMjQ1NTM2M119
