@@ -139,6 +139,20 @@ where fruitGroupID = <parent.ID>
 node fruit
 orderby fruitID
 ```
+##### Panel statement after endcode
+```html
+<panelstatement>
+		<id>10000</id>
+		<usage>Level 2, fruit</usage>
+		<domain>Select all fruit, the child of fruitGroup by Id</domain>
+		<statement>&#34;$FRUITS&#34;&#10;select fruitID, &lt;parent.ID&gt;, 0,&#10;3,&#10;2022,&#10;name, '',&#10;toDelete,&#10;0,&#10;0, &#34;&#34;,&#10;&#34;&#34;, &#34;&#34;, 0, 0,&#10;pageitemid&#10;node fruits.fruitGroup&#10;where fruitGroupID = &lt;parent.ID&gt;&#10;node fruit&#10;orderby fruitID</statement>
+		<in_parameters></in_parameters>
+		<out_parameters></out_parameters>
+		<description>Ebene 2, Product</description>
+		<hasstringids>0</hasstringids>
+</panelstatement>
+```
+##### Link Panel statement after endcode
 **Caution:** don't modifies default `<panelstatement>` if you don't clearly understand what you do.
 # 4. Find statement 
 
@@ -288,8 +302,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MTQ4NjIwMiwtODE4NjM4MjMyLC0xND
-gwODQ2NjY4LC0xMDI1NjkwMTYzLDIwOTYwOTAzMTcsLTE1MTI5
-NTYxMTYsLTE5NTg1NDkwOTEsMTAyNjcwMTg1OSwtMzMyNDU1Mz
-YzXX0=
+eyJoaXN0b3J5IjpbMzU5Njg3OTUsLTgxODYzODIzMiwtMTQ4MD
+g0NjY2OCwtMTAyNTY5MDE2MywyMDk2MDkwMzE3LC0xNTEyOTU2
+MTE2LC0xOTU4NTQ5MDkxLDEwMjY3MDE4NTksLTMzMjQ1NTM2M1
+19
 -->
