@@ -58,34 +58,19 @@ StackEdit stores your files in your browser, which means all your files are auto
 		<gridid></gridid>
 		<masterpage></masterpage>
 		<fruit>
-			<fruitID>100</fruitID>
-			<name>Mango</name>
-			<image>images/mango.jpg</image>
-			<sample>
-				<ID>1</ID>
-				<img>images/sample01.jpg</img>
-			</sample>
-			<sample>
-				<ID>2</ID>
-				<img>images/sample02.jpg</img>
-			</sample>
-			<sample>
-				<ID>3</ID>
-				<img>images/mango.jpg</img>
-			</sample>
-			<country>Southern Asia</country>
-			<description>Mango, Mangifera indica, is one of the oldest and most important of tropical fruits.  It was cultivated since before 4,000 B.C.  It is a sacred tree in India.  Indigenous to Southern Asia, it is now widely grown in all tropical and some subtropical areas.  Mango is one of the few tropical plants that have been improved under cultivation and there are over 515 horticultural varieties grown.  The tree is a handsome evergreen, reaching 90 ft. in height with small pink flowers in large panicles.  The fruit is a fleshy drupe with a thick yellowish-red skin and a large seed.  The size, shape, and quality mangos vary greatly.  The lengths are 3-5 in.  The pulp is orange, yellow or red and when ripe has a rich, aromatic flavor with a perfect blending of sweetness and acidity.  Young and inferior fruits are often fibrous and unpleasantly acid.</description>
-			<unit>kg</unit>
-			<ordernumber>692674</ordernumber>
-			<price>14,99</price>
-			<pageitemid>399</pageitemid>
-			<pageitemid>399</pageitemid>
-			<position>top</position>
-			<placeid>1</placeid>
-			<pageitemid2>2</pageitemid2>
-			<toDelete>0</toDelete>
+			<fruitID></fruitID>
+			<name></name>
+			<image></image>
+			<country></country>
+			<description></description>
+			<unit></unit>
+			<ordernumber></ordernumber>
+			<price></price>
 		</fruit>
+		...
 	</fruitGroup>
+	...one or more ...
+<fruits>
 ```
 
 # 3. Panel Statement
@@ -256,7 +241,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NzM0MjI2LC0xMDI1NjkwMTYzLDIwOT
-YwOTAzMTcsLTE1MTI5NTYxMTYsLTE5NTg1NDkwOTEsMTAyNjcw
-MTg1OSwtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbMjAyNjc3OTUzMywtMTAyNTY5MDE2MywyMD
+k2MDkwMzE3LC0xNTEyOTU2MTE2LC0xOTU4NTQ5MDkxLDEwMjY3
+MDE4NTksLTMzMjQ1NTM2M119
 -->
