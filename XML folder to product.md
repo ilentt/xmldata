@@ -50,14 +50,14 @@ StackEdit stores your files in your browser, which means all your files are auto
 
 #### example
 ```xml
-<uitsroup>
-		<uitroupID></uitroupID>
+<fruits>
+	<fruitGroup>
+		<fruitGroupID></fruitGroupID>
 		<name></name>
 		<description></description>
-		<gridid></gridid>
-		<masterpage></masterpage>
 		<uitID></fruID>
-name></name>
+		<fruit>
+			<name></name>
 			<image></image>
 			<country></country>
 			<description></description>
@@ -253,7 +253,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTY0MjIyMzcsLTE0ODA4NDY2NjgsLT
+eyJoaXN0b3J5IjpbLTEzNjgyODc5ODYsLTE0ODA4NDY2NjgsLT
 EwMjU2OTAxNjMsMjA5NjA5MDMxNywtMTUxMjk1NjExNiwtMTk1
 ODU0OTA5MSwxMDI2NzAxODU5LC0zMzI0NTUzNjNdfQ==
 -->
