@@ -210,10 +210,16 @@ Find statement `findstatements.xml` select panel statement load to InDesign pane
 </findstatements>
 ```
 
-add your comment here
+left side use for edit, and right side is show, this editor using markdown to format text. Example if you want bold
+
+**this is bold**
+
+**or you can using top tool bar**
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NjE3MzkyNiwxMDI2MzIxMTUxLC05Nj
-YxNzM5MjYsMTAyNjMyMTE1MSwtOTY2MTczOTI2LDEwMjYzMjEx
-NTEsMTUzMDE1MzQzMSwtMTkxODAxMTgwNiwxOTUzNTM4MTc1XX
-0=
+eyJoaXN0b3J5IjpbMTk5ODIxODk3MywtOTY2MTczOTI2LDEwMj
+YzMjExNTEsLTk2NjE3MzkyNiwxMDI2MzIxMTUxLC05NjYxNzM5
+MjYsMTAyNjMyMTE1MSwxNTMwMTUzNDMxLC0xOTE4MDExODA2LD
+E5NTM1MzgxNzVdfQ==
 -->
