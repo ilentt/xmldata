@@ -217,8 +217,10 @@ left side use for edit, and right side is show, this editor using markdown to fo
 **or you can using top tool bar**
 
 you also can export document to pdf, word, html and so on
+
+after edit or comment, remember synchrony to save to githib
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MDAxMTkyMiwtOTY2MTczOTI2LDEwMj
+eyJoaXN0b3J5IjpbLTEzODgxMzQ2NiwtOTY2MTczOTI2LDEwMj
 YzMjExNTEsLTk2NjE3MzkyNiwxMDI2MzIxMTUxLC05NjYxNzM5
 MjYsMTAyNjMyMTE1MSwxNTMwMTUzNDMxLC0xOTE4MDExODA2LD
 E5NTM1MzgxNzVdfQ==
