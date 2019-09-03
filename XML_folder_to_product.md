@@ -202,16 +202,14 @@ Find statement `findstatements.xml` select panel statement load to InDesign pane
 		<classid>3</classid>
 		<userid>0</userid>
 		<statement></statement>
-		<label>Show me cuisine name comon baby</label>
+		<label>Filter product by condition(id,label,...)</label>
 		<sequencenr>10</sequencenr>
 		<hasstringids>0</hasstringids>
 		<candelete>0</candelete>
 	</findstatement>
 </findstatements>
 ```
-
-comment
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMDE1MzQzMSwtMTkxODAxMTgwNiwxOT
-UzNTM4MTc1XX0=
+eyJoaXN0b3J5IjpbMTAyNjMyMTE1MSwxNTMwMTUzNDMxLC0xOT
+E4MDExODA2LDE5NTM1MzgxNzVdfQ==
 -->
