@@ -286,7 +286,7 @@ where fruitGroupID = <ID2>
 node fruit
 where fruitID = <ID>
 ```
-### 5.3 Final result, combine image and text place holder together.
+### 5.3 Final result, combine image and text place holder together to build a c
 
 
 
@@ -310,11 +310,11 @@ Find statement `findstatements.xml` select panel statement load to InDesign pane
 </findstatements>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNzQwMTksMTY4MDU5NzI3Niw3NjQ2MD
-Y3MzEsMjgzNDkzMDkwLDE5MTEyNzc4ODcsLTMzNDQzNTU1Miwx
-Nzk5NzA1MDQ3LDQzOTI3NDgyNSwtMTkwMzE2MzIzNywtNzQ2Mz
-Y0NDM4LDE3NDE3NTc4MzcsMTcwOTMwMTY3MCw1NDQ3MTAyNDAs
-MTYwNzI1MTk3NywxNDI1NjY4MjY2LC0yMTQ0MzU5ODMsLTE3MD
-Y3MjQ3NTYsLTE3MDgxNzYyODksMTc4NTE3Mjk0NCwxOTEzNDU4
-NDE4XX0=
+eyJoaXN0b3J5IjpbMjEyMjU0MzIwNCwxMjE3NDAxOSwxNjgwNT
+k3Mjc2LDc2NDYwNjczMSwyODM0OTMwOTAsMTkxMTI3Nzg4Nywt
+MzM0NDM1NTUyLDE3OTk3MDUwNDcsNDM5Mjc0ODI1LC0xOTAzMT
+YzMjM3LC03NDYzNjQ0MzgsMTc0MTc1NzgzNywxNzA5MzAxNjcw
+LDU0NDcxMDI0MCwxNjA3MjUxOTc3LDE0MjU2NjgyNjYsLTIxND
+QzNTk4MywtMTcwNjcyNDc1NiwtMTcwODE3NjI4OSwxNzg1MTcy
+OTQ0XX0=
 -->
