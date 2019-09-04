@@ -269,7 +269,7 @@ After all your definition will be similar below example
 ![](https://i.imgur.com/4kuqr8j.png)
 
 **Finally:** checking your work, if everything is correctly your result will be similar below example.
-![](https://i.imgur.com/4kuqr8j.png)
+![](https://i.imgur.com/dBo3480.jpg)
 
 # x. Find statement 
 
@@ -291,7 +291,7 @@ Find statement `findstatements.xml` select panel statement load to InDesign pane
 </findstatements>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2OTU0NTc0MiwtMzM0NDM1NTUyLDE3OT
+eyJoaXN0b3J5IjpbMTkxMTI3Nzg4NywtMzM0NDM1NTUyLDE3OT
 k3MDUwNDcsNDM5Mjc0ODI1LC0xOTAzMTYzMjM3LC03NDYzNjQ0
 MzgsMTc0MTc1NzgzNywxNzA5MzAxNjcwLDU0NDcxMDI0MCwxNj
 A3MjUxOTc3LDE0MjU2NjgyNjYsLTIxNDQzNTk4MywtMTcwNjcy
