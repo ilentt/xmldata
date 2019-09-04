@@ -67,7 +67,7 @@ Data file `datafiles.xml` use definition data source need load into InDesign. Th
 		<id>5</id>
 		<path>fruits.xml</path>
 		<alias>FRUITS</alias>
-		<description>Data source Vietnam cuisine</description>
+		<description>Data source the fr</description>
 		<enabled>1</enabled>
 	</datafile>
 	<datafile>
@@ -210,7 +210,7 @@ Find statement `findstatements.xml` select panel statement load to InDesign pane
 </findstatements>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5OTA0Nzg2NCwtMTcwNjcyNDc1NiwtMT
+eyJoaXN0b3J5IjpbMTA2MjUwMDMzNywtMTcwNjcyNDc1NiwtMT
 cwODE3NjI4OSwxNzg1MTcyOTQ0LDE5MTM0NTg0MTgsLTEzODgx
 MzQ2NiwtOTY2MTczOTI2LDEwMjYzMjExNTEsLTk2NjE3MzkyNi
 wxMDI2MzIxMTUxLC05NjYxNzM5MjYsMTAyNjMyMTE1MSwxNTMw
