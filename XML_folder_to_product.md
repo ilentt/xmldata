@@ -40,8 +40,8 @@ Data file `datafiles.xml` use definition data source need load into InDesign. Th
 <datafiles>
 ```
 - `id` : start at 1 and always unique
-- `path` : path link to data product definition at `step 1`
-- `alias` : short name represent path, it's also variable name using query select product statement
+- `path` : path link to data product definition at step define product
+- `alias` : short name represent path, it's also variable name using in query select product statement
 - `description` : description data file(option)
 - `enable` : accepted two values are `1` stand for enable and `0` stand for disable
 
@@ -210,9 +210,9 @@ Find statement `findstatements.xml` select panel statement load to InDesign pane
 </findstatements>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwNjgyNjEyLC0xNzA2NzI0NzU2LC0xNz
-A4MTc2Mjg5LDE3ODUxNzI5NDQsMTkxMzQ1ODQxOCwtMTM4ODEz
-NDY2LC05NjYxNzM5MjYsMTAyNjMyMTE1MSwtOTY2MTczOTI2LD
-EwMjYzMjExNTEsLTk2NjE3MzkyNiwxMDI2MzIxMTUxLDE1MzAx
-NTM0MzEsLTE5MTgwMTE4MDYsMTk1MzUzODE3NV19
+eyJoaXN0b3J5IjpbLTg5OTA0Nzg2NCwtMTcwNjcyNDc1NiwtMT
+cwODE3NjI4OSwxNzg1MTcyOTQ0LDE5MTM0NTg0MTgsLTEzODgx
+MzQ2NiwtOTY2MTczOTI2LDEwMjYzMjExNTEsLTk2NjE3MzkyNi
+wxMDI2MzIxMTUxLC05NjYxNzM5MjYsMTAyNjMyMTE1MSwxNTMw
+MTUzNDMxLC0xOTE4MDExODA2LDE5NTM1MzgxNzVdfQ==
 -->
