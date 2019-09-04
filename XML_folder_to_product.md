@@ -102,7 +102,7 @@ Panel statement `panelstatements.xml` contain query `<statement>` select product
 <panelstatements>
 ```
 #### 3.1 Query statement in the panel statement id `55` for loading of all top level objects.
-Always define panel statement with id `55` for loading o
+To select all top level my fruit produc
 ```xml
 "$FRUITS"
 select fruitGroupID, 0, 0,
@@ -117,6 +117,7 @@ name, '',
 node fruits.fruitGroup
 ```
 ##### Panel tatement after encode
+Always define panel statement with id `55` for loading all top level product
 ```xml
 <panelstatement>
 		<id>55</id>
@@ -213,11 +214,11 @@ Find statement `findstatements.xml` select panel statement load to InDesign pane
 </findstatements>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNTAzMzM2NCwxNzA5MzAxNjcwLDU0ND
-cxMDI0MCwxNjA3MjUxOTc3LDE0MjU2NjgyNjYsLTIxNDQzNTk4
-MywtMTcwNjcyNDc1NiwtMTcwODE3NjI4OSwxNzg1MTcyOTQ0LD
-E5MTM0NTg0MTgsLTEzODgxMzQ2NiwtOTY2MTczOTI2LDEwMjYz
-MjExNTEsLTk2NjE3MzkyNiwxMDI2MzIxMTUxLC05NjYxNzM5Mj
-YsMTAyNjMyMTE1MSwxNTMwMTUzNDMxLC0xOTE4MDExODA2LDE5
-NTM1MzgxNzVdfQ==
+eyJoaXN0b3J5IjpbMzAyNzA5MjgsMTcwOTMwMTY3MCw1NDQ3MT
+AyNDAsMTYwNzI1MTk3NywxNDI1NjY4MjY2LC0yMTQ0MzU5ODMs
+LTE3MDY3MjQ3NTYsLTE3MDgxNzYyODksMTc4NTE3Mjk0NCwxOT
+EzNDU4NDE4LC0xMzg4MTM0NjYsLTk2NjE3MzkyNiwxMDI2MzIx
+MTUxLC05NjYxNzM5MjYsMTAyNjMyMTE1MSwtOTY2MTczOTI2LD
+EwMjYzMjExNTEsMTUzMDE1MzQzMSwtMTkxODAxMTgwNiwxOTUz
+NTM4MTc1XX0=
 -->
