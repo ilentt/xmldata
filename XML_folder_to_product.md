@@ -1,6 +1,6 @@
 # 1. Define product
 
-To defined product 
+To defined product you should organization your product to one or many parent and child. Each p
 
 #### Example:
 ```xml
@@ -208,7 +208,7 @@ Find statement `findstatements.xml` select panel statement load to InDesign pane
 </findstatements>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NDE2MjU2MywtMTcwODE3NjI4OSwxNz
+eyJoaXN0b3J5IjpbMTU0OTU5MTczNSwtMTcwODE3NjI4OSwxNz
 g1MTcyOTQ0LDE5MTM0NTg0MTgsLTEzODgxMzQ2NiwtOTY2MTcz
 OTI2LDEwMjYzMjExNTEsLTk2NjE3MzkyNiwxMDI2MzIxMTUxLC
 05NjYxNzM5MjYsMTAyNjMyMTE1MSwxNTMwMTUzNDMxLC0xOTE4
