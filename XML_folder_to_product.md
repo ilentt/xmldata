@@ -102,7 +102,8 @@ Panel statement `panelstatements.xml` contain query `<statement>` select product
 <panelstatements>
 ```
 #### 3.1 Query statement in the panel statement id `55` for loading of all top level objects.
-To select all top level my fruit product already define at `step 1` you need declare data source first. In this case data source is `FRUITS` in `datafile.xml` at `step 2` this value also the same with value in InDesign panel `Settings`
+To select all top level my fruit product already define at `step 1` you need declare data source first. In this case data source is `FRUITS` in `datafile.xml` at `step 2` this value and the value in InDesign panel `Settings` are one. 
+
 ```xml
 "$FRUITS"
 select fruitGroupID, 0, 0,
@@ -214,11 +215,11 @@ Find statement `findstatements.xml` select panel statement load to InDesign pane
 </findstatements>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTk1ODA4NjYsMTcwOTMwMTY3MCw1ND
-Q3MTAyNDAsMTYwNzI1MTk3NywxNDI1NjY4MjY2LC0yMTQ0MzU5
-ODMsLTE3MDY3MjQ3NTYsLTE3MDgxNzYyODksMTc4NTE3Mjk0NC
-wxOTEzNDU4NDE4LC0xMzg4MTM0NjYsLTk2NjE3MzkyNiwxMDI2
-MzIxMTUxLC05NjYxNzM5MjYsMTAyNjMyMTE1MSwtOTY2MTczOT
-I2LDEwMjYzMjExNTEsMTUzMDE1MzQzMSwtMTkxODAxMTgwNiwx
-OTUzNTM4MTc1XX0=
+eyJoaXN0b3J5IjpbMjAwMTE1MjkyOCwxNzA5MzAxNjcwLDU0ND
+cxMDI0MCwxNjA3MjUxOTc3LDE0MjU2NjgyNjYsLTIxNDQzNTk4
+MywtMTcwNjcyNDc1NiwtMTcwODE3NjI4OSwxNzg1MTcyOTQ0LD
+E5MTM0NTg0MTgsLTEzODgxMzQ2NiwtOTY2MTczOTI2LDEwMjYz
+MjExNTEsLTk2NjE3MzkyNiwxMDI2MzIxMTUxLC05NjYxNzM5Mj
+YsMTAyNjMyMTE1MSwxNTMwMTUzNDMxLC0xOTE4MDExODA2LDE5
+NTM1MzgxNzVdfQ==
 -->
