@@ -243,7 +243,8 @@ The rest other attributes are also requirement but in this step maybe blank or u
 	</placeholder>
 </metadata>
 ```
-Above example show how to define a place holder image frame.
+Above example show how to define a place holder image frame. If everything is correctly place holder will display in inDesign place holder panel.
+
 
 # x. Find statement 
 
@@ -265,7 +266,7 @@ Find statement `findstatements.xml` select panel statement load to InDesign pane
 </findstatements>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg3NTE3NDgxLDQzOTI3NDgyNSwtMTkwMz
+eyJoaXN0b3J5IjpbODM0NDA0MDc0LDQzOTI3NDgyNSwtMTkwMz
 E2MzIzNywtNzQ2MzY0NDM4LDE3NDE3NTc4MzcsMTcwOTMwMTY3
 MCw1NDQ3MTAyNDAsMTYwNzI1MTk3NywxNDI1NjY4MjY2LC0yMT
 Q0MzU5ODMsLTE3MDY3MjQ3NTYsLTE3MDgxNzYyODksMTc4NTE3
