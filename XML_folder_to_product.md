@@ -262,7 +262,7 @@ node fruit where fruitID = <ID>
 - `image` : attribute of product have already defined in `datafile.xml`
 - `5` : position image in frame, value `5` meaning middle center, you can try another value such as `4`, `6` etc.
 - `<ID> & <ID2>` : are current selected product in product panel
-3. After write you need save it, the script will be encrypt and stored in folder `actions` In this example the script will named `200.crpt`
+3. After write you need save it, the script will be encrypt and stored in folder `actions`. In this example the script will named `200.crpt`. To update this script you have to declare in `Place Holder Values` at 
 # x. Find statement 
 
 Find statement `findstatements.xml` select panel statement load to InDesign panel.
@@ -283,11 +283,11 @@ Find statement `findstatements.xml` select panel statement load to InDesign pane
 </findstatements>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMTY4MjQ5OSwxNzk5NzA1MDQ3LDQzOT
-I3NDgyNSwtMTkwMzE2MzIzNywtNzQ2MzY0NDM4LDE3NDE3NTc4
-MzcsMTcwOTMwMTY3MCw1NDQ3MTAyNDAsMTYwNzI1MTk3NywxND
-I1NjY4MjY2LC0yMTQ0MzU5ODMsLTE3MDY3MjQ3NTYsLTE3MDgx
-NzYyODksMTc4NTE3Mjk0NCwxOTEzNDU4NDE4LC0xMzg4MTM0Nj
-YsLTk2NjE3MzkyNiwxMDI2MzIxMTUxLC05NjYxNzM5MjYsMTAy
-NjMyMTE1MV19
+eyJoaXN0b3J5IjpbLTE4MTU4NDM4NTksMTc5OTcwNTA0Nyw0Mz
+kyNzQ4MjUsLTE5MDMxNjMyMzcsLTc0NjM2NDQzOCwxNzQxNzU3
+ODM3LDE3MDkzMDE2NzAsNTQ0NzEwMjQwLDE2MDcyNTE5NzcsMT
+QyNTY2ODI2NiwtMjE0NDM1OTgzLC0xNzA2NzI0NzU2LC0xNzA4
+MTc2Mjg5LDE3ODUxNzI5NDQsMTkxMzQ1ODQxOCwtMTM4ODEzND
+Y2LC05NjYxNzM5MjYsMTAyNjMyMTE1MSwtOTY2MTczOTI2LDEw
+MjYzMjExNTFdfQ==
 -->
