@@ -221,14 +221,14 @@ The place holder define in `placeholder.xml` we have may type of place holder. B
 		<lov>0</lov>
 		<objectnameid>0</objectnameid>
 			<color name="">
-      <id>0</id>
-    </color>
-    <style></style>
-    <styleid>0</styleid>
-    <syncstateinvisible>0</syncstateinvisible>
-    <loadconstraint>0</loadconstraint>
-    <active>1</active>
-  </placeholder>
+				<id>0</id>
+			</color>
+		<style></style>
+		<styleid>0</styleid>
+		<syncstateinvisible>0</syncstateinvisible>
+		<loadconstraint>0</loadconstraint>
+		<active>1</active>
+	</placeholder>
 </metadata>
 ```
 
@@ -253,7 +253,7 @@ Find statement `findstatements.xml` select panel statement load to InDesign pane
 </findstatements>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM1MzQzMjM3LC0xOTAzMTYzMjM3LC03ND
+eyJoaXN0b3J5IjpbNjgxMDg3Njg1LC0xOTAzMTYzMjM3LC03ND
 YzNjQ0MzgsMTc0MTc1NzgzNywxNzA5MzAxNjcwLDU0NDcxMDI0
 MCwxNjA3MjUxOTc3LDE0MjU2NjgyNjYsLTIxNDQzNTk4MywtMT
 cwNjcyNDc1NiwtMTcwODE3NjI4OSwxNzg1MTcyOTQ0LDE5MTM0
