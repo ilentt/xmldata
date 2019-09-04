@@ -260,7 +260,7 @@ node fruit where fruitID = <ID>
 - `$FRUITS` : data source have already define in `datafile.xml`
 - `$COMETDATA` : syntax must to have
 - `image` : attribute of product have already defined in `datafile.xml`
-- `5` : position image in frame, 
+- `5` : position image in frame, value `5` meaning middle center, you can try another value such as `4`, `6` etc.
 # x. Find statement 
 
 Find statement `findstatements.xml` select panel statement load to InDesign panel.
@@ -281,7 +281,7 @@ Find statement `findstatements.xml` select panel statement load to InDesign pane
 </findstatements>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MjA4NDQ0MSwxNzk5NzA1MDQ3LDQzOT
+eyJoaXN0b3J5IjpbLTc1MjYwNzU3MSwxNzk5NzA1MDQ3LDQzOT
 I3NDgyNSwtMTkwMzE2MzIzNywtNzQ2MzY0NDM4LDE3NDE3NTc4
 MzcsMTcwOTMwMTY3MCw1NDQ3MTAyNDAsMTYwNzI1MTk3NywxND
 I1NjY4MjY2LC0yMTQ0MzU5ODMsLTE3MDY3MjQ3NTYsLTE3MDgx
