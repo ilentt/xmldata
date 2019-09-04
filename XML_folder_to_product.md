@@ -201,7 +201,7 @@ node fruits.fruitGroup
 **Caution:** don't modifies default `<panelstatement>` if you don't clearly understand what you do. More detail document at `InDesign/Plugins/products.html#Rueckgabewerte`
 
 # 5. Create place holder
-The place holder define in `placeholder.xml` we have two type place holder are image ``
+The place holder define in `placeholder.xml` we have may type of place holder. But in this tutorial I just introduce two type are image place  `imageframe` and text 
 
 
 
@@ -225,11 +225,11 @@ Find statement `findstatements.xml` select panel statement load to InDesign pane
 </findstatements>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzIzNzg4NDksLTc0NjM2NDQzOCwxNz
-QxNzU3ODM3LDE3MDkzMDE2NzAsNTQ0NzEwMjQwLDE2MDcyNTE5
-NzcsMTQyNTY2ODI2NiwtMjE0NDM1OTgzLC0xNzA2NzI0NzU2LC
-0xNzA4MTc2Mjg5LDE3ODUxNzI5NDQsMTkxMzQ1ODQxOCwtMTM4
-ODEzNDY2LC05NjYxNzM5MjYsMTAyNjMyMTE1MSwtOTY2MTczOT
-I2LDEwMjYzMjExNTEsLTk2NjE3MzkyNiwxMDI2MzIxMTUxLDE1
-MzAxNTM0MzFdfQ==
+eyJoaXN0b3J5IjpbMjA1MzM0NjYzMCwtNzQ2MzY0NDM4LDE3ND
+E3NTc4MzcsMTcwOTMwMTY3MCw1NDQ3MTAyNDAsMTYwNzI1MTk3
+NywxNDI1NjY4MjY2LC0yMTQ0MzU5ODMsLTE3MDY3MjQ3NTYsLT
+E3MDgxNzYyODksMTc4NTE3Mjk0NCwxOTEzNDU4NDE4LC0xMzg4
+MTM0NjYsLTk2NjE3MzkyNiwxMDI2MzIxMTUxLC05NjYxNzM5Mj
+YsMTAyNjMyMTE1MSwtOTY2MTczOTI2LDEwMjYzMjExNTEsMTUz
+MDE1MzQzMV19
 -->
