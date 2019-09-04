@@ -1,6 +1,6 @@
 # 1. Define product
 
-To defined product you should organization your product to one or many parent and child. Each parent or child always have one or many attribute depend on your product. 
+To defined product you should organization your product to one or many parent and child. Each parent or child always have one or many attribute depend on your product or bussiness re
 
 #### Example:
 ```xml
@@ -208,9 +208,9 @@ Find statement `findstatements.xml` select panel statement load to InDesign pane
 </findstatements>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDY3MjQ3NTYsLTE3MDgxNzYyODksMT
-c4NTE3Mjk0NCwxOTEzNDU4NDE4LC0xMzg4MTM0NjYsLTk2NjE3
-MzkyNiwxMDI2MzIxMTUxLC05NjYxNzM5MjYsMTAyNjMyMTE1MS
-wtOTY2MTczOTI2LDEwMjYzMjExNTEsMTUzMDE1MzQzMSwtMTkx
-ODAxMTgwNiwxOTUzNTM4MTc1XX0=
+eyJoaXN0b3J5IjpbLTE5OTIxOTk0MjksLTE3MDY3MjQ3NTYsLT
+E3MDgxNzYyODksMTc4NTE3Mjk0NCwxOTEzNDU4NDE4LC0xMzg4
+MTM0NjYsLTk2NjE3MzkyNiwxMDI2MzIxMTUxLC05NjYxNzM5Mj
+YsMTAyNjMyMTE1MSwtOTY2MTczOTI2LDEwMjYzMjExNTEsMTUz
+MDE1MzQzMSwtMTkxODAxMTgwNiwxOTUzNTM4MTc1XX0=
 -->
