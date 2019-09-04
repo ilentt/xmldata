@@ -2,7 +2,7 @@
 
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible
 
-#### example
+#### Example
 ```xml
 <fruits>
 	<fruitGroup>
@@ -208,9 +208,9 @@ Find statement `findstatements.xml` select panel statement load to InDesign pane
 </findstatements>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1OTI5NzM5MSwtMTcwODE3NjI4OSwxNz
-g1MTcyOTQ0LDE5MTM0NTg0MTgsLTEzODgxMzQ2NiwtOTY2MTcz
-OTI2LDEwMjYzMjExNTEsLTk2NjE3MzkyNiwxMDI2MzIxMTUxLC
-05NjYxNzM5MjYsMTAyNjMyMTE1MSwxNTMwMTUzNDMxLC0xOTE4
-MDExODA2LDE5NTM1MzgxNzVdfQ==
+eyJoaXN0b3J5IjpbLTEwMzAxMTk2MDEsLTE3MDgxNzYyODksMT
+c4NTE3Mjk0NCwxOTEzNDU4NDE4LC0xMzg4MTM0NjYsLTk2NjE3
+MzkyNiwxMDI2MzIxMTUxLC05NjYxNzM5MjYsMTAyNjMyMTE1MS
+wtOTY2MTczOTI2LDEwMjYzMjExNTEsMTUzMDE1MzQzMSwtMTkx
+ODAxMTgwNiwxOTUzNTM4MTc1XX0=
 -->
