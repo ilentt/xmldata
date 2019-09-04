@@ -290,7 +290,7 @@ where fruitID = <ID>
 
 ### 5.3. Final result, combine image and text place holder together to build a complete product.
 ![](https://i.imgur.com/bSJP9UR.jpg)
-
+Using direct link https://i.imgur.com/bSJP9UR.jpg in case can not view.
 # x. Find statement 
 
 Find statement `findstatements.xml` select panel statement load to InDesign panel.
@@ -311,11 +311,11 @@ Find statement `findstatements.xml` select panel statement load to InDesign pane
 </findstatements>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjgyNTU1MzYsLTE1NzY5MDQ3MDMsLT
-EyNjgyNTU1MzYsMTc5ODY3NzExMSwxMjE3NDAxOSwxNjgwNTk3
-Mjc2LDc2NDYwNjczMSwyODM0OTMwOTAsMTkxMTI3Nzg4NywtMz
-M0NDM1NTUyLDE3OTk3MDUwNDcsNDM5Mjc0ODI1LC0xOTAzMTYz
-MjM3LC03NDYzNjQ0MzgsMTc0MTc1NzgzNywxNzA5MzAxNjcwLD
-U0NDcxMDI0MCwxNjA3MjUxOTc3LDE0MjU2NjgyNjYsLTIxNDQz
-NTk4M119
+eyJoaXN0b3J5IjpbLTkyMDY1NjE1MiwtMTI2ODI1NTUzNiwtMT
+U3NjkwNDcwMywtMTI2ODI1NTUzNiwxNzk4Njc3MTExLDEyMTc0
+MDE5LDE2ODA1OTcyNzYsNzY0NjA2NzMxLDI4MzQ5MzA5MCwxOT
+ExMjc3ODg3LC0zMzQ0MzU1NTIsMTc5OTcwNTA0Nyw0MzkyNzQ4
+MjUsLTE5MDMxNjMyMzcsLTc0NjM2NDQzOCwxNzQxNzU3ODM3LD
+E3MDkzMDE2NzAsNTQ0NzEwMjQwLDE2MDcyNTE5NzcsMTQyNTY2
+ODI2Nl19
 -->
