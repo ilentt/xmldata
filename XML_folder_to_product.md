@@ -257,7 +257,8 @@ node fruits.fruitGroup
 where fruitGroupID = <ID2>
 node fruit where fruitID = <ID>
 ```
-
+- `$FRUITS` : data source have already define in `datafile.xml`
+- 
 # x. Find statement 
 
 Find statement `findstatements.xml` select panel statement load to InDesign panel.
@@ -278,11 +279,11 @@ Find statement `findstatements.xml` select panel statement load to InDesign pane
 </findstatements>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Njk1NDM3NTIsMTc5OTcwNTA0Nyw0Mz
-kyNzQ4MjUsLTE5MDMxNjMyMzcsLTc0NjM2NDQzOCwxNzQxNzU3
-ODM3LDE3MDkzMDE2NzAsNTQ0NzEwMjQwLDE2MDcyNTE5NzcsMT
-QyNTY2ODI2NiwtMjE0NDM1OTgzLC0xNzA2NzI0NzU2LC0xNzA4
-MTc2Mjg5LDE3ODUxNzI5NDQsMTkxMzQ1ODQxOCwtMTM4ODEzND
-Y2LC05NjYxNzM5MjYsMTAyNjMyMTE1MSwtOTY2MTczOTI2LDEw
-MjYzMjExNTFdfQ==
+eyJoaXN0b3J5IjpbNjQ3NDY2OTU3LDE3OTk3MDUwNDcsNDM5Mj
+c0ODI1LC0xOTAzMTYzMjM3LC03NDYzNjQ0MzgsMTc0MTc1Nzgz
+NywxNzA5MzAxNjcwLDU0NDcxMDI0MCwxNjA3MjUxOTc3LDE0Mj
+U2NjgyNjYsLTIxNDQzNTk4MywtMTcwNjcyNDc1NiwtMTcwODE3
+NjI4OSwxNzg1MTcyOTQ0LDE5MTM0NTg0MTgsLTEzODgxMzQ2Ni
+wtOTY2MTczOTI2LDEwMjYzMjExNTEsLTk2NjE3MzkyNiwxMDI2
+MzIxMTUxXX0=
 -->
