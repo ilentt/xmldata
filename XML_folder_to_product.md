@@ -273,6 +273,8 @@ After all your definition will be similar below example
 **Finally:** checking your work, if everything is correctly your result will be similar below example.
 ![](https://i.imgur.com/dBo3480.jpg)
 
+### 5.1 Text place holder
+To defined text place holder also similar define image place holder
 # x. Find statement 
 
 Find statement `findstatements.xml` select panel statement load to InDesign panel.
@@ -293,11 +295,11 @@ Find statement `findstatements.xml` select panel statement load to InDesign pane
 </findstatements>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgzNDkzMDkwLDE5MTEyNzc4ODcsLTMzND
-QzNTU1MiwxNzk5NzA1MDQ3LDQzOTI3NDgyNSwtMTkwMzE2MzIz
-NywtNzQ2MzY0NDM4LDE3NDE3NTc4MzcsMTcwOTMwMTY3MCw1ND
-Q3MTAyNDAsMTYwNzI1MTk3NywxNDI1NjY4MjY2LC0yMTQ0MzU5
-ODMsLTE3MDY3MjQ3NTYsLTE3MDgxNzYyODksMTc4NTE3Mjk0NC
-wxOTEzNDU4NDE4LC0xMzg4MTM0NjYsLTk2NjE3MzkyNiwxMDI2
-MzIxMTUxXX0=
+eyJoaXN0b3J5IjpbMTE4ODkwNDk3NiwyODM0OTMwOTAsMTkxMT
+I3Nzg4NywtMzM0NDM1NTUyLDE3OTk3MDUwNDcsNDM5Mjc0ODI1
+LC0xOTAzMTYzMjM3LC03NDYzNjQ0MzgsMTc0MTc1NzgzNywxNz
+A5MzAxNjcwLDU0NDcxMDI0MCwxNjA3MjUxOTc3LDE0MjU2Njgy
+NjYsLTIxNDQzNTk4MywtMTcwNjcyNDc1NiwtMTcwODE3NjI4OS
+wxNzg1MTcyOTQ0LDE5MTM0NTg0MTgsLTEzODgxMzQ2NiwtOTY2
+MTczOTI2XX0=
 -->
