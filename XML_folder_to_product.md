@@ -262,7 +262,7 @@ node fruit where fruitID = <ID>
 - `image` : attribute of product have already defined in `datafile.xml`
 - `5` : position image in frame, value `5` meaning middle center, you can try another value such as `4`, `6` etc.
 - `<ID> & <ID2>` : are current selected product in product panel
-3. 
+3. After write you need save it, the script will be encrypt and stored in folder `action` 
 # x. Find statement 
 
 Find statement `findstatements.xml` select panel statement load to InDesign panel.
@@ -283,7 +283,7 @@ Find statement `findstatements.xml` select panel statement load to InDesign pane
 </findstatements>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NTY5NjQ2NCwxNzk5NzA1MDQ3LDQzOT
+eyJoaXN0b3J5IjpbMTAyMDY3MzA4MSwxNzk5NzA1MDQ3LDQzOT
 I3NDgyNSwtMTkwMzE2MzIzNywtNzQ2MzY0NDM4LDE3NDE3NTc4
 MzcsMTcwOTMwMTY3MCw1NDQ3MTAyNDAsMTYwNzI1MTk3NywxND
 I1NjY4MjY2LC0yMTQ0MzU5ODMsLTE3MDY3MjQ3NTYsLTE3MDgx
