@@ -86,7 +86,7 @@ Data file `datafiles.xml` use definition data source need load into InDesign. Th
 
 # 3. Panel statement
 
-Panel statement `panelstatements.xml` contain query statement select product load into InDesign
+Panel statement `panelstatements.xml` contain query `<statement>` select product load into InDesign
 ```xml
 <panelstatements>
 	<panelstatement>
@@ -212,10 +212,11 @@ Find statement `findstatements.xml` select panel statement load to InDesign pane
 </findstatements>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ0NzEwMjQwLDE2MDcyNTE5NzcsMTQyNT
-Y2ODI2NiwtMjE0NDM1OTgzLC0xNzA2NzI0NzU2LC0xNzA4MTc2
-Mjg5LDE3ODUxNzI5NDQsMTkxMzQ1ODQxOCwtMTM4ODEzNDY2LC
-05NjYxNzM5MjYsMTAyNjMyMTE1MSwtOTY2MTczOTI2LDEwMjYz
-MjExNTEsLTk2NjE3MzkyNiwxMDI2MzIxMTUxLDE1MzAxNTM0Mz
-EsLTE5MTgwMTE4MDYsMTk1MzUzODE3NV19
+eyJoaXN0b3J5IjpbMTcwOTMwMTY3MCw1NDQ3MTAyNDAsMTYwNz
+I1MTk3NywxNDI1NjY4MjY2LC0yMTQ0MzU5ODMsLTE3MDY3MjQ3
+NTYsLTE3MDgxNzYyODksMTc4NTE3Mjk0NCwxOTEzNDU4NDE4LC
+0xMzg4MTM0NjYsLTk2NjE3MzkyNiwxMDI2MzIxMTUxLC05NjYx
+NzM5MjYsMTAyNjMyMTE1MSwtOTY2MTczOTI2LDEwMjYzMjExNT
+EsMTUzMDE1MzQzMSwtMTkxODAxMTgwNiwxOTUzNTM4MTc1XX0=
+
 -->
