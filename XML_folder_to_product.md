@@ -2,7 +2,7 @@
 
 To defined product you should organization your product have one or many parent and child. Each parent or child always have one or many attribute depend on your product or business requirement. The product maybe Book, Fashion, Food, Machine component, etc.
 
-Below example I defined my product is the fruit. The fruit have two type are fruit from Tropical and other from Temperate Regions or Frigid Regions
+Below example I defined my product is the fruit. The fruit have two type or more type are fruit from Tropical and other from Temperate Regions or Frigid Regions. Each fruit have some attribute such as id, name, image, country, description, 
  level parent and child. 
 - Parent is fruit group 
 
@@ -212,7 +212,7 @@ Find statement `findstatements.xml` select panel statement load to InDesign pane
 </findstatements>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NDY4MjMwNSwtMTcwNjcyNDc1NiwtMT
+eyJoaXN0b3J5IjpbLTYyMjUxNTgyNiwtMTcwNjcyNDc1NiwtMT
 cwODE3NjI4OSwxNzg1MTcyOTQ0LDE5MTM0NTg0MTgsLTEzODgx
 MzQ2NiwtOTY2MTczOTI2LDEwMjYzMjExNTEsLTk2NjE3MzkyNi
 wxMDI2MzIxMTUxLC05NjYxNzM5MjYsMTAyNjMyMTE1MSwxNTMw
