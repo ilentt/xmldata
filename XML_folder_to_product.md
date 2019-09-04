@@ -101,7 +101,7 @@ Panel statement `panelstatements.xml` contain query `<statement>` select product
 	</panelstatement>
 <panelstatements>
 ```
-#### 3.1 Query statement in the panel statement id `55` for loading of all top level objects.
+### 3.1 Query statement in the panel statement id `55` for loading of all top level objects.
 To select all top level my fruit product already define at `step 1` you need declare data source first. In this case data source is `FRUITS` in `datafile.xml` at `step 2` this value and the value in InDesign panel `Settings` are one. The data source begin by `$` and surround by double character `"` finally the data source will be similar `"$FRUITS"`
 
 ```xml
@@ -119,7 +119,7 @@ node fruits.fruitGroup
 ```
 To query all top product fruit in `datafile.xml` in this case you need select `fruitGroupID`, `name` from node `fruits.fruitGroup`. The query statement like above example, at this step you should skip other value in the query statement, just using it like default value.
 
-##### Panel statement after encode
+#### Panel statement after encode
 Always define panel statement with id `55` for loading all top level product. After write query statement you need encode to avoid suddenly error when InDesign reading your define. The `<statement>` after encode in `<panelstatement` like example below. References document `InDesign/Plugins/products.html` section `Treeview Panel statements` for more detail.
 ```xml
 <panelstatement>
@@ -133,11 +133,11 @@ Always define panel statement with id `55` for loading all top level product. Af
 		<hasstringids>0</hasstringids>
 </panelstatement>
 ```
-##### Result after first panel statement query
+#### Result after first panel statement query
 
 ![](https://i.imgur.com/wx0jzoG.png)
 
-#### 3.2 Query statement in the panel statement for loading of all child of top level product.
+### 3.2 Query statement in the panel statement for loading of all child of top level product.
 ```xml
 "$FRUITS"
 select fruitID, <parent.ID>, 0,
@@ -154,7 +154,7 @@ where fruitGroupID = <parent.ID>
 node fruit
 orderby fruitID
 ```
-##### Panel statement after encode
+#### Panel statement after encode
 ```html
 <panelstatement>
 		<id>10000</id>
@@ -167,7 +167,7 @@ orderby fruitID
 		<hasstringids>0</hasstringids>
 </panelstatement>
 ```
-#### 3.3 Query statement point panel statement at `3.1` to `3.2`
+### 3.3 Query statement point panel statement at `3.1` to `3.2`
 The query statement at `3.1` point to `3.2` by `<id>10000</id>` The final query statement will be similar below example.
 ```xml
 "$FRUITS"
@@ -195,7 +195,7 @@ node fruits.fruitGroup
 		<hasstringids>0</hasstringids>
 </panelstatement>
 ```
-#### 3.4 Final result
+### 3.4 Final result
 ![](https://i.imgur.com/PbMEfC4.png)
 
 **Caution:** don't modifies default `<panelstatement>` if you don't clearly understand what you do. More detail document at `InDesign/Plugins/products.html#Rueckgabewerte`
@@ -219,11 +219,11 @@ Find statement `findstatements.xml` select panel statement load to InDesign pane
 </findstatements>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MTc1NzgzNywxNzA5MzAxNjcwLDU0ND
-cxMDI0MCwxNjA3MjUxOTc3LDE0MjU2NjgyNjYsLTIxNDQzNTk4
-MywtMTcwNjcyNDc1NiwtMTcwODE3NjI4OSwxNzg1MTcyOTQ0LD
-E5MTM0NTg0MTgsLTEzODgxMzQ2NiwtOTY2MTczOTI2LDEwMjYz
-MjExNTEsLTk2NjE3MzkyNiwxMDI2MzIxMTUxLC05NjYxNzM5Mj
-YsMTAyNjMyMTE1MSwxNTMwMTUzNDMxLC0xOTE4MDExODA2LDE5
-NTM1MzgxNzVdfQ==
+eyJoaXN0b3J5IjpbLTU2MjE5MzgyMCwxNzQxNzU3ODM3LDE3MD
+kzMDE2NzAsNTQ0NzEwMjQwLDE2MDcyNTE5NzcsMTQyNTY2ODI2
+NiwtMjE0NDM1OTgzLC0xNzA2NzI0NzU2LC0xNzA4MTc2Mjg5LD
+E3ODUxNzI5NDQsMTkxMzQ1ODQxOCwtMTM4ODEzNDY2LC05NjYx
+NzM5MjYsMTAyNjMyMTE1MSwtOTY2MTczOTI2LDEwMjYzMjExNT
+EsLTk2NjE3MzkyNiwxMDI2MzIxMTUxLDE1MzAxNTM0MzEsLTE5
+MTgwMTE4MDZdfQ==
 -->
