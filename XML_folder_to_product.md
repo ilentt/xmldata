@@ -119,8 +119,8 @@ node fruits.fruitGroup
 ```
 To query all top product fruit in `datafile.xml` in this case you need select `fruitGroupID`, `name` from node `fruits.fruitGroup`. The query statement like above example, at this step you should skip other value in the query statement, just using it like default value. References document `InDesign/Plugins/products.html` section `Treeview Panel statements` for more detail.
 
-##### Panel tatement after encode
-Always define panel statement with id `55` for loading all top level product. After write query statement you need encode to avoid suddenly error when InDesign 
+##### Panel statement after encode
+Always define panel statement with id `55` for loading all top level product. After write query statement you need encode to avoid suddenly error when InDesign reading your define. The `<statement>` after encode in `<panelstatement` like ex 
 ```xml
 <panelstatement>
 		<id>55</id>
@@ -217,7 +217,7 @@ Find statement `findstatements.xml` select panel statement load to InDesign pane
 </findstatements>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMDE4OTY4NSwxNzA5MzAxNjcwLDU0ND
+eyJoaXN0b3J5IjpbMTkwMTUzNzMwNiwxNzA5MzAxNjcwLDU0ND
 cxMDI0MCwxNjA3MjUxOTc3LDE0MjU2NjgyNjYsLTIxNDQzNTk4
 MywtMTcwNjcyNDc1NiwtMTcwODE3NjI4OSwxNzg1MTcyOTQ0LD
 E5MTM0NTg0MTgsLTEzODgxMzQ2NiwtOTY2MTczOTI2LDEwMjYz
