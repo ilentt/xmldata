@@ -248,6 +248,7 @@ Above example show how to define a place holder image frame. If everything is co
 ![place holder](https://i.imgur.com/x64uxb1.png)
 
 **Step 2:**  Define the xml query select attribute of product in `datafile.xml`, in this case you will select image of fruit from datasource `fruit.xml` <br/>
+1. In `Place Holder Values` panel open script editor
 
 # x. Find statement 
 
@@ -269,11 +270,11 @@ Find statement `findstatements.xml` select panel statement load to InDesign pane
 </findstatements>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5OTcwNTA0Nyw0MzkyNzQ4MjUsLTE5MD
-MxNjMyMzcsLTc0NjM2NDQzOCwxNzQxNzU3ODM3LDE3MDkzMDE2
-NzAsNTQ0NzEwMjQwLDE2MDcyNTE5NzcsMTQyNTY2ODI2NiwtMj
-E0NDM1OTgzLC0xNzA2NzI0NzU2LC0xNzA4MTc2Mjg5LDE3ODUx
-NzI5NDQsMTkxMzQ1ODQxOCwtMTM4ODEzNDY2LC05NjYxNzM5Mj
-YsMTAyNjMyMTE1MSwtOTY2MTczOTI2LDEwMjYzMjExNTEsLTk2
-NjE3MzkyNl19
+eyJoaXN0b3J5IjpbLTE0OTAwMzYyODAsMTc5OTcwNTA0Nyw0Mz
+kyNzQ4MjUsLTE5MDMxNjMyMzcsLTc0NjM2NDQzOCwxNzQxNzU3
+ODM3LDE3MDkzMDE2NzAsNTQ0NzEwMjQwLDE2MDcyNTE5NzcsMT
+QyNTY2ODI2NiwtMjE0NDM1OTgzLC0xNzA2NzI0NzU2LC0xNzA4
+MTc2Mjg5LDE3ODUxNzI5NDQsMTkxMzQ1ODQxOCwtMTM4ODEzND
+Y2LC05NjYxNzM5MjYsMTAyNjMyMTE1MSwtOTY2MTczOTI2LDEw
+MjYzMjExNTFdfQ==
 -->
