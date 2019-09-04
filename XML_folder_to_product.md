@@ -268,7 +268,7 @@ After all your definition will be similar below example
 
 ![](https://i.imgur.com/4kuqr8j.png)
 
-**Finally:** checking your work, if everything is correct 
+**Finally:** checking your work, if everything is correctly your result will be similar 
 
 # x. Find statement 
 
@@ -290,11 +290,11 @@ Find statement `findstatements.xml` select panel statement load to InDesign pane
 </findstatements>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMTU1NTY2LDE3OTk3MDUwNDcsNDM5Mj
-c0ODI1LC0xOTAzMTYzMjM3LC03NDYzNjQ0MzgsMTc0MTc1Nzgz
-NywxNzA5MzAxNjcwLDU0NDcxMDI0MCwxNjA3MjUxOTc3LDE0Mj
-U2NjgyNjYsLTIxNDQzNTk4MywtMTcwNjcyNDc1NiwtMTcwODE3
-NjI4OSwxNzg1MTcyOTQ0LDE5MTM0NTg0MTgsLTEzODgxMzQ2Ni
-wtOTY2MTczOTI2LDEwMjYzMjExNTEsLTk2NjE3MzkyNiwxMDI2
-MzIxMTUxXX0=
+eyJoaXN0b3J5IjpbLTE4NTgyMTQ2NywxNzk5NzA1MDQ3LDQzOT
+I3NDgyNSwtMTkwMzE2MzIzNywtNzQ2MzY0NDM4LDE3NDE3NTc4
+MzcsMTcwOTMwMTY3MCw1NDQ3MTAyNDAsMTYwNzI1MTk3NywxND
+I1NjY4MjY2LC0yMTQ0MzU5ODMsLTE3MDY3MjQ3NTYsLTE3MDgx
+NzYyODksMTc4NTE3Mjk0NCwxOTEzNDU4NDE4LC0xMzg4MTM0Nj
+YsLTk2NjE3MzkyNiwxMDI2MzIxMTUxLC05NjYxNzM5MjYsMTAy
+NjMyMTE1MV19
 -->
