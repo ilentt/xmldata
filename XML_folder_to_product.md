@@ -204,7 +204,34 @@ node fruits.fruitGroup
 The place holder define in `placeholder.xml` we have may type of place holder. But in this tutorial I just introduce two type are image place holder  is `imageframe` and text place holder is `text`
 
 ### 5.1 Image place holder
-
+```xml
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+  <placeholder>
+    <id>100</id>
+    <name>Fruit image</name>
+    <description></description>
+    <type>imageframe</type>
+    <domain>ILen Tutorial</domain>
+    <domainid>2000</domainid>
+    <class>0</class>
+    <load>200</load>
+    <sync>0</sync>
+    <store>0</store>
+    <lov>0</lov>
+	<objectnameid>0</objectnameid>
+    <color
+      name="">
+      <id>0</id>
+    </color>
+    <style></style>
+    <styleid>0</styleid>
+    <syncstateinvisible>0</syncstateinvisible>
+    <loadconstraint>0</loadconstraint>
+    <active>1</active>
+  </placeholder>
+</metadata>
+```
 
 
 # x. Find statement 
@@ -227,11 +254,11 @@ Find statement `findstatements.xml` select panel statement load to InDesign pane
 </findstatements>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDMxNjMyMzcsLTc0NjM2NDQzOCwxNz
-QxNzU3ODM3LDE3MDkzMDE2NzAsNTQ0NzEwMjQwLDE2MDcyNTE5
-NzcsMTQyNTY2ODI2NiwtMjE0NDM1OTgzLC0xNzA2NzI0NzU2LC
-0xNzA4MTc2Mjg5LDE3ODUxNzI5NDQsMTkxMzQ1ODQxOCwtMTM4
-ODEzNDY2LC05NjYxNzM5MjYsMTAyNjMyMTE1MSwtOTY2MTczOT
-I2LDEwMjYzMjExNTEsLTk2NjE3MzkyNiwxMDI2MzIxMTUxLDE1
-MzAxNTM0MzFdfQ==
+eyJoaXN0b3J5IjpbLTEyMjIwNzQ4OTEsLTE5MDMxNjMyMzcsLT
+c0NjM2NDQzOCwxNzQxNzU3ODM3LDE3MDkzMDE2NzAsNTQ0NzEw
+MjQwLDE2MDcyNTE5NzcsMTQyNTY2ODI2NiwtMjE0NDM1OTgzLC
+0xNzA2NzI0NzU2LC0xNzA4MTc2Mjg5LDE3ODUxNzI5NDQsMTkx
+MzQ1ODQxOCwtMTM4ODEzNDY2LC05NjYxNzM5MjYsMTAyNjMyMT
+E1MSwtOTY2MTczOTI2LDEwMjYzMjExNTEsLTk2NjE3MzkyNiwx
+MDI2MzIxMTUxXX0=
 -->
