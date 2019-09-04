@@ -79,8 +79,9 @@ Data file `datafiles.xml` use definition data source need load into InDesign. Th
 	</datafile>
 </datafiles>
 ``` 
-Note: Data file have two type data are xml data and image. You must define exactly path link to data. If you configuration correctly the result will be same with below resu
+**Note:** Data file have two type data are xml data and image. You must define exactly path link to data. If you configuration correctly the result will be same with below result. Gray icon meaning data is disabled, blue icon meaning enable and already to use.
 
+More detail 
 #### Result after define data file
 ![result after define data file](https://i.imgur.com/gs34Ezb.png)
 
@@ -212,10 +213,10 @@ Find statement `findstatements.xml` select panel statement load to InDesign pane
 </findstatements>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MTQ5MDQzMSwtMjE0NDM1OTgzLC0xNz
-A2NzI0NzU2LC0xNzA4MTc2Mjg5LDE3ODUxNzI5NDQsMTkxMzQ1
-ODQxOCwtMTM4ODEzNDY2LC05NjYxNzM5MjYsMTAyNjMyMTE1MS
-wtOTY2MTczOTI2LDEwMjYzMjExNTEsLTk2NjE3MzkyNiwxMDI2
-MzIxMTUxLDE1MzAxNTM0MzEsLTE5MTgwMTE4MDYsMTk1MzUzOD
-E3NV19
+eyJoaXN0b3J5IjpbODM1MDYxNTgyLC0yMTQ0MzU5ODMsLTE3MD
+Y3MjQ3NTYsLTE3MDgxNzYyODksMTc4NTE3Mjk0NCwxOTEzNDU4
+NDE4LC0xMzg4MTM0NjYsLTk2NjE3MzkyNiwxMDI2MzIxMTUxLC
+05NjYxNzM5MjYsMTAyNjMyMTE1MSwtOTY2MTczOTI2LDEwMjYz
+MjExNTEsMTUzMDE1MzQzMSwtMTkxODAxMTgwNiwxOTUzNTM4MT
+c1XX0=
 -->
