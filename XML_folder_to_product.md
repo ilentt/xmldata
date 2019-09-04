@@ -262,7 +262,11 @@ node fruit where fruitID = <ID>
 - `image` : attribute of product have already defined in `datafile.xml`
 - `5` : position image in frame, value `5` meaning middle center, you can try another value such as `4`, `6` etc.
 - `<ID> & <ID2>` : are current selected product in product panel
-3. After write you need save it, the script will be encrypt and stored in folder `actions`. In this example the script will named `200.crpt`. To update this script you have to declare in `Place Holder Values` at 
+3. After write you need save it, the script will be encrypt and stored in folder `actions`. In this example the script will named `200.crpt`. To update this script you have to declare in `Place Holder Values` at `load` input text position.
+
+After all your definition will be similar below example.
+![]()
+
 # x. Find statement 
 
 Find statement `findstatements.xml` select panel statement load to InDesign panel.
@@ -283,7 +287,7 @@ Find statement `findstatements.xml` select panel statement load to InDesign pane
 </findstatements>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTU4NDM4NTksMTc5OTcwNTA0Nyw0Mz
+eyJoaXN0b3J5IjpbLTE4NDIxMzI3NDcsMTc5OTcwNTA0Nyw0Mz
 kyNzQ4MjUsLTE5MDMxNjMyMzcsLTc0NjM2NDQzOCwxNzQxNzU3
 ODM3LDE3MDkzMDE2NzAsNTQ0NzEwMjQwLDE2MDcyNTE5NzcsMT
 QyNTY2ODI2NiwtMjE0NDM1OTgzLC0xNzA2NzI0NzU2LC0xNzA4
