@@ -273,10 +273,10 @@ After all your definition will be similar below example
 **Finally:** checking your work, if everything is correctly your result will be similar below example.
 ![](https://i.imgur.com/dBo3480.jpg)
 
-### 5.1 Text place holder
+### 5.2 Text place holder
 To defined text place holder also similar define image place holder. You also need two step are define place holder and write xml query to select attribute of product. The differences point is xml query. In this example you will select attribute `name` and `description` of product fruit.
 
-XML query select attribute `name` of product fruit. Totally similar with `description`, just replace `name` by `description` you can do the same way for other attribute such as ``
+XML query select attribute `name` of product fruit. Totally similar with `description`, just replace `name` by `description` you can do the same way for other attribute such as `country`, `unit`, `prices`, etc
 ```
 "$FRUITS"
 xmlget
@@ -286,7 +286,7 @@ where fruitGroupID = <ID2>
 node fruit
 where fruitID = <ID>
 ```
-
+### 5.3 Text place holder
 
 # x. Find statement 
 
@@ -308,11 +308,11 @@ Find statement `findstatements.xml` select panel statement load to InDesign pane
 </findstatements>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTg1MzE2NzksMTY4MDU5NzI3Niw3Nj
-Q2MDY3MzEsMjgzNDkzMDkwLDE5MTEyNzc4ODcsLTMzNDQzNTU1
-MiwxNzk5NzA1MDQ3LDQzOTI3NDgyNSwtMTkwMzE2MzIzNywtNz
-Q2MzY0NDM4LDE3NDE3NTc4MzcsMTcwOTMwMTY3MCw1NDQ3MTAy
-NDAsMTYwNzI1MTk3NywxNDI1NjY4MjY2LC0yMTQ0MzU5ODMsLT
-E3MDY3MjQ3NTYsLTE3MDgxNzYyODksMTc4NTE3Mjk0NCwxOTEz
-NDU4NDE4XX0=
+eyJoaXN0b3J5IjpbMjQwMjc5ODU3LDE2ODA1OTcyNzYsNzY0Nj
+A2NzMxLDI4MzQ5MzA5MCwxOTExMjc3ODg3LC0zMzQ0MzU1NTIs
+MTc5OTcwNTA0Nyw0MzkyNzQ4MjUsLTE5MDMxNjMyMzcsLTc0Nj
+M2NDQzOCwxNzQxNzU3ODM3LDE3MDkzMDE2NzAsNTQ0NzEwMjQw
+LDE2MDcyNTE5NzcsMTQyNTY2ODI2NiwtMjE0NDM1OTgzLC0xNz
+A2NzI0NzU2LC0xNzA4MTc2Mjg5LDE3ODUxNzI5NDQsMTkxMzQ1
+ODQxOF19
 -->
