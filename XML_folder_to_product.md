@@ -276,7 +276,7 @@ After all your definition will be similar below example
 ### 5.1 Text place holder
 To defined text place holder also similar define image place holder. You also need two step are define place holder and write xml query to select attribute of product. The differences point is xml query. In this example you will select attribute `name` and `description` of product fruit.
 
-1. xml query select attribute name of product fruit.
+XML query select attribute `name` of product fruit. Totally similar with `description` just change `name` by ``
 ```
 "$FRUITS"
 xmlget
@@ -306,11 +306,11 @@ Find statement `findstatements.xml` select panel statement load to InDesign pane
 </findstatements>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY0NjA2NzMxLDI4MzQ5MzA5MCwxOTExMj
-c3ODg3LC0zMzQ0MzU1NTIsMTc5OTcwNTA0Nyw0MzkyNzQ4MjUs
-LTE5MDMxNjMyMzcsLTc0NjM2NDQzOCwxNzQxNzU3ODM3LDE3MD
-kzMDE2NzAsNTQ0NzEwMjQwLDE2MDcyNTE5NzcsMTQyNTY2ODI2
-NiwtMjE0NDM1OTgzLC0xNzA2NzI0NzU2LC0xNzA4MTc2Mjg5LD
-E3ODUxNzI5NDQsMTkxMzQ1ODQxOCwtMTM4ODEzNDY2LC05NjYx
-NzM5MjZdfQ==
+eyJoaXN0b3J5IjpbLTIwMzkxNTgyMTQsNzY0NjA2NzMxLDI4Mz
+Q5MzA5MCwxOTExMjc3ODg3LC0zMzQ0MzU1NTIsMTc5OTcwNTA0
+Nyw0MzkyNzQ4MjUsLTE5MDMxNjMyMzcsLTc0NjM2NDQzOCwxNz
+QxNzU3ODM3LDE3MDkzMDE2NzAsNTQ0NzEwMjQwLDE2MDcyNTE5
+NzcsMTQyNTY2ODI2NiwtMjE0NDM1OTgzLC0xNzA2NzI0NzU2LC
+0xNzA4MTc2Mjg5LDE3ODUxNzI5NDQsMTkxMzQ1ODQxOCwtMTM4
+ODEzNDY2XX0=
 -->
