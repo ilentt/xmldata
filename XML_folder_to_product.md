@@ -1,4 +1,3 @@
-# 
 # 1. Define product
 
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible
@@ -209,8 +208,9 @@ Find statement `findstatements.xml` select panel statement load to InDesign pane
 </findstatements>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NTE3Mjk0NCwxOTEzNDU4NDE4LC0xMz
-g4MTM0NjYsLTk2NjE3MzkyNiwxMDI2MzIxMTUxLC05NjYxNzM5
-MjYsMTAyNjMyMTE1MSwtOTY2MTczOTI2LDEwMjYzMjExNTEsMT
-UzMDE1MzQzMSwtMTkxODAxMTgwNiwxOTUzNTM4MTc1XX0=
+eyJoaXN0b3J5IjpbLTE3MDgxNzYyODksMTc4NTE3Mjk0NCwxOT
+EzNDU4NDE4LC0xMzg4MTM0NjYsLTk2NjE3MzkyNiwxMDI2MzIx
+MTUxLC05NjYxNzM5MjYsMTAyNjMyMTE1MSwtOTY2MTczOTI2LD
+EwMjYzMjExNTEsMTUzMDE1MzQzMSwtMTkxODAxMTgwNiwxOTUz
+NTM4MTc1XX0=
 -->
