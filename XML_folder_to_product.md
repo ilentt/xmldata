@@ -81,7 +81,7 @@ Data file `datafiles.xml` use definition data source need load into InDesign. Th
 ``` 
 **Note:** Data file have two type data are `xml data` and `image`. You must define exactly path link to data. If you configuration correctly the result will be same with below result. Gray icon meaning data is disabled, blue icon meaning enable and already to use. References document `InDesign/Plugins/w2plugins.html` section `Settings` for more detail.
 
-#### Result after define data file
+#### Result after define data file correctly
 ![result after define data file](https://i.imgur.com/gs34Ezb.png)
 
 # 3. Panel statement
@@ -212,10 +212,10 @@ Find statement `findstatements.xml` select panel statement load to InDesign pane
 </findstatements>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNzI1MTk3NywxNDI1NjY4MjY2LC0yMT
-Q0MzU5ODMsLTE3MDY3MjQ3NTYsLTE3MDgxNzYyODksMTc4NTE3
-Mjk0NCwxOTEzNDU4NDE4LC0xMzg4MTM0NjYsLTk2NjE3MzkyNi
-wxMDI2MzIxMTUxLC05NjYxNzM5MjYsMTAyNjMyMTE1MSwtOTY2
-MTczOTI2LDEwMjYzMjExNTEsMTUzMDE1MzQzMSwtMTkxODAxMT
-gwNiwxOTUzNTM4MTc1XX0=
+eyJoaXN0b3J5IjpbNTQ0NzEwMjQwLDE2MDcyNTE5NzcsMTQyNT
+Y2ODI2NiwtMjE0NDM1OTgzLC0xNzA2NzI0NzU2LC0xNzA4MTc2
+Mjg5LDE3ODUxNzI5NDQsMTkxMzQ1ODQxOCwtMTM4ODEzNDY2LC
+05NjYxNzM5MjYsMTAyNjMyMTE1MSwtOTY2MTczOTI2LDEwMjYz
+MjExNTEsLTk2NjE3MzkyNiwxMDI2MzIxMTUxLDE1MzAxNTM0Mz
+EsLTE5MTgwMTE4MDYsMTk1MzUzODE3NV19
 -->
