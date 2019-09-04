@@ -104,7 +104,7 @@ Panel statement `panelstatements.xml` contain query `<statement>` select product
 #### 3.1 Query statement in the panel statement id `55` for loading of all top level objects.
 To select all top level my fruit product already define at `step 1` you need declare data source first. In this case data source is `FRUITS` in `datafile.xml` at `step 2` this value and the value in InDesign panel `Settings` are one. The data source begin by `$` and surround by double character `"` finally the data source will be similar `"$FRUITS"`
 
-To query all top product fruit in `datafile.xml` in this case you need select `fruitGroupID`, `name` from node `fruits.fruitGroup`. The query statement like this, at this step you should skip other value in this query statement, just using it like default value. References document `InDesign/Plugins/w2plugins.html` section `Settings` for more detail.
+To query all top product fruit in `datafile.xml` in this case you need select `fruitGroupID`, `name` from node `fruits.fruitGroup`. The query statement like this, at this step you should skip other value in this query statement, just using it like default value. References document `InDesign/Plugins/products.html` section `Treeview Panel statements` for more detail.
 
 ```xml
 "$FRUITS"
@@ -119,8 +119,6 @@ name, '',
 0
 node fruits.fruitGroup
 ```
-
-
 ##### Panel tatement after encode
 Always define panel statement with id `55` for loading all top level product
 ```xml
@@ -219,11 +217,11 @@ Find statement `findstatements.xml` select panel statement load to InDesign pane
 </findstatements>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQzMjI3NjE4LDE3MDkzMDE2NzAsNTQ0Nz
-EwMjQwLDE2MDcyNTE5NzcsMTQyNTY2ODI2NiwtMjE0NDM1OTgz
-LC0xNzA2NzI0NzU2LC0xNzA4MTc2Mjg5LDE3ODUxNzI5NDQsMT
-kxMzQ1ODQxOCwtMTM4ODEzNDY2LC05NjYxNzM5MjYsMTAyNjMy
-MTE1MSwtOTY2MTczOTI2LDEwMjYzMjExNTEsLTk2NjE3MzkyNi
-wxMDI2MzIxMTUxLDE1MzAxNTM0MzEsLTE5MTgwMTE4MDYsMTk1
-MzUzODE3NV19
+eyJoaXN0b3J5IjpbLTIwNDUyNzY4NTEsMTcwOTMwMTY3MCw1ND
+Q3MTAyNDAsMTYwNzI1MTk3NywxNDI1NjY4MjY2LC0yMTQ0MzU5
+ODMsLTE3MDY3MjQ3NTYsLTE3MDgxNzYyODksMTc4NTE3Mjk0NC
+wxOTEzNDU4NDE4LC0xMzg4MTM0NjYsLTk2NjE3MzkyNiwxMDI2
+MzIxMTUxLC05NjYxNzM5MjYsMTAyNjMyMTE1MSwtOTY2MTczOT
+I2LDEwMjYzMjExNTEsMTUzMDE1MzQzMSwtMTkxODAxMTgwNiwx
+OTUzNTM4MTc1XX0=
 -->
