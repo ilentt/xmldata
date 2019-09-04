@@ -269,7 +269,7 @@ After all your definition will be similar below example
 ![](https://i.imgur.com/4kuqr8j.png)
 
 **Finally:** checking your work, if everything is correctly your result will be similar below example.
-
+![](https://i.imgur.com/4kuqr8j.png)
 
 # x. Find statement 
 
@@ -291,11 +291,11 @@ Find statement `findstatements.xml` select panel statement load to InDesign pane
 </findstatements>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNDQzNTU1MiwxNzk5NzA1MDQ3LDQzOT
-I3NDgyNSwtMTkwMzE2MzIzNywtNzQ2MzY0NDM4LDE3NDE3NTc4
-MzcsMTcwOTMwMTY3MCw1NDQ3MTAyNDAsMTYwNzI1MTk3NywxND
-I1NjY4MjY2LC0yMTQ0MzU5ODMsLTE3MDY3MjQ3NTYsLTE3MDgx
-NzYyODksMTc4NTE3Mjk0NCwxOTEzNDU4NDE4LC0xMzg4MTM0Nj
-YsLTk2NjE3MzkyNiwxMDI2MzIxMTUxLC05NjYxNzM5MjYsMTAy
-NjMyMTE1MV19
+eyJoaXN0b3J5IjpbMTE2OTU0NTc0MiwtMzM0NDM1NTUyLDE3OT
+k3MDUwNDcsNDM5Mjc0ODI1LC0xOTAzMTYzMjM3LC03NDYzNjQ0
+MzgsMTc0MTc1NzgzNywxNzA5MzAxNjcwLDU0NDcxMDI0MCwxNj
+A3MjUxOTc3LDE0MjU2NjgyNjYsLTIxNDQzNTk4MywtMTcwNjcy
+NDc1NiwtMTcwODE3NjI4OSwxNzg1MTcyOTQ0LDE5MTM0NTg0MT
+gsLTEzODgxMzQ2NiwtOTY2MTczOTI2LDEwMjYzMjExNTEsLTk2
+NjE3MzkyNl19
 -->
