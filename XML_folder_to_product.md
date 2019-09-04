@@ -200,11 +200,11 @@ node fruits.fruitGroup
 
 **Caution:** don't modifies default `<panelstatement>` if you don't clearly understand what you do. More detail document at `InDesign/Plugins/products.html#Rueckgabewerte`
 
+# 5. Create image place holder
 
 
 
-
-# 4. Find statement 
+# x. Find statement 
 
 Find statement `findstatements.xml` select panel statement load to InDesign panel.
 ```html
@@ -224,7 +224,7 @@ Find statement `findstatements.xml` select panel statement load to InDesign pane
 </findstatements>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NzI4ODQzOCwxNzQxNzU3ODM3LDE3MD
+eyJoaXN0b3J5IjpbLTc0NjM2NDQzOCwxNzQxNzU3ODM3LDE3MD
 kzMDE2NzAsNTQ0NzEwMjQwLDE2MDcyNTE5NzcsMTQyNTY2ODI2
 NiwtMjE0NDM1OTgzLC0xNzA2NzI0NzU2LC0xNzA4MTc2Mjg5LD
 E3ODUxNzI5NDQsMTkxMzQ1ODQxOCwtMTM4ODEzNDY2LC05NjYx
