@@ -261,9 +261,11 @@ node fruit where fruitID = <ID>
 - `$COMETDATA` : syntax must to have
 - `image` : attribute of product have already defined in `datafile.xml`
 - `5` : position image in frame, value `5` meaning middle center, you can try another value such as `4`, `6` etc.
-- `<ID> & <ID2>` : are current selected product in product panel
+- `<ID> & <ID2>` : are current selected product in Indesign product panel
 3. After write xml query you need save it, the script will be encrypt and stored in folder `actions`. In this example the script will named `200.crpt`. To update this script you have to declare in `Place Holder Values` at `load` input text position.
-More detail document at `InDesign/Plugins/products.html#Rueckgabewerte`
+
+References document `cscript/xmlquery.html#XML_Query_Language` for more detail.
+
 After all your definition will be similar below example
 
 ![](https://i.imgur.com/4kuqr8j.png)
@@ -291,7 +293,7 @@ Find statement `findstatements.xml` select panel statement load to InDesign pane
 </findstatements>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk2NzA5NTQzLDE5MTEyNzc4ODcsLTMzND
+eyJoaXN0b3J5IjpbMjgzNDkzMDkwLDE5MTEyNzc4ODcsLTMzND
 QzNTU1MiwxNzk5NzA1MDQ3LDQzOTI3NDgyNSwtMTkwMzE2MzIz
 NywtNzQ2MzY0NDM4LDE3NDE3NTc4MzcsMTcwOTMwMTY3MCw1ND
 Q3MTAyNDAsMTYwNzI1MTk3NywxNDI1NjY4MjY2LC0yMTQ0MzU5
