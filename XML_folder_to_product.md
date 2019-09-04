@@ -168,7 +168,7 @@ orderby fruitID
 </panelstatement>
 ```
 #### 3.3 Query statement point panel statement at `3.1` to `3.2`
-The query statement at `3.1` point to `3.2` by 
+The query statement at `3.1` point to `3.2` by `<id>10000</id>` The final query statement will be similar below example.
 ```xml
 "$FRUITS"
 select fruitGroupID, 0, 0,
@@ -219,7 +219,7 @@ Find statement `findstatements.xml` select panel statement load to InDesign pane
 </findstatements>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NDE0NDEyNiwxNzA5MzAxNjcwLDU0ND
+eyJoaXN0b3J5IjpbMTc0MTc1NzgzNywxNzA5MzAxNjcwLDU0ND
 cxMDI0MCwxNjA3MjUxOTc3LDE0MjU2NjgyNjYsLTIxNDQzNTk4
 MywtMTcwNjcyNDc1NiwtMTcwODE3NjI4OSwxNzg1MTcyOTQ0LD
 E5MTM0NTg0MTgsLTEzODgxMzQ2NiwtOTY2MTczOTI2LDEwMjYz
