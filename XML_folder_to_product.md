@@ -203,7 +203,7 @@ node fruits.fruitGroup
 # 5. Create place holder
 The place holder define in `placeholder.xml` we have may type of place holder. But in this tutorial I just introduce two type are image place holder  is `imageframe` and text place holder is `text`
 
-### 5.1 Image place holder
+### 5.1. Image place holder
 To get image of product you need two step.  
 
 **Step 1:**  Define the place holder using place holder type `imageframe`<br/>
@@ -273,7 +273,7 @@ After all your definition will be similar below example
 **Finally:** checking your work, if everything is correctly your result will be similar below example.
 ![](https://i.imgur.com/dBo3480.jpg)
 
-### 5.2 Text place holder
+### 5.2. Text place holder
 To defined text place holder also similar define image place holder. You also need two step are define place holder and write xml query to select attribute of product. The differences point is xml query. In this example you will select attribute `name` and `description` of product fruit.
 
 XML query select attribute `name` of product fruit. Totally similar with `description`, just replace `name` by `description` you can do the same way for other attribute such as `country`, `unit`, `prices`, etc
@@ -286,7 +286,7 @@ where fruitGroupID = <ID2>
 node fruit
 where fruitID = <ID>
 ```
-### 5.3 Final result, combine image and text place holder together to build a c
+### 5.3. Final result, combine image and text place holder together to build a complete product.
 
 
 
@@ -310,7 +310,7 @@ Find statement `findstatements.xml` select panel statement load to InDesign pane
 </findstatements>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMjU0MzIwNCwxMjE3NDAxOSwxNjgwNT
+eyJoaXN0b3J5IjpbMTc5ODY3NzExMSwxMjE3NDAxOSwxNjgwNT
 k3Mjc2LDc2NDYwNjczMSwyODM0OTMwOTAsMTkxMTI3Nzg4Nywt
 MzM0NDM1NTUyLDE3OTk3MDUwNDcsNDM5Mjc0ODI1LC0xOTAzMT
 YzMjM3LC03NDYzNjQ0MzgsMTc0MTc1NzgzNywxNzA5MzAxNjcw
