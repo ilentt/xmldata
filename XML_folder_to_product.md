@@ -207,9 +207,11 @@ The place holder define in `placeholder.xml` we have may type of place holder. B
 To get image of product you need two step.  
 
 **Step 1:**  Define the place holder using place holder type `imageframe`<br/>
-in `<placeholder>` need define some attribute such as
+in `<placeholder>` need define and initial value some attribute such as
 - `id` : id of place holder
 - `name` : name of place holder
+- `type` : type of place holder
+- `dom`
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <metadata>
@@ -259,11 +261,11 @@ Find statement `findstatements.xml` select panel statement load to InDesign pane
 </findstatements>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxODg4MDc3NCw0MzkyNzQ4MjUsLTE5MD
-MxNjMyMzcsLTc0NjM2NDQzOCwxNzQxNzU3ODM3LDE3MDkzMDE2
-NzAsNTQ0NzEwMjQwLDE2MDcyNTE5NzcsMTQyNTY2ODI2NiwtMj
-E0NDM1OTgzLC0xNzA2NzI0NzU2LC0xNzA4MTc2Mjg5LDE3ODUx
-NzI5NDQsMTkxMzQ1ODQxOCwtMTM4ODEzNDY2LC05NjYxNzM5Mj
-YsMTAyNjMyMTE1MSwtOTY2MTczOTI2LDEwMjYzMjExNTEsLTk2
-NjE3MzkyNl19
+eyJoaXN0b3J5IjpbLTE5ODcyODE4NDAsNDM5Mjc0ODI1LC0xOT
+AzMTYzMjM3LC03NDYzNjQ0MzgsMTc0MTc1NzgzNywxNzA5MzAx
+NjcwLDU0NDcxMDI0MCwxNjA3MjUxOTc3LDE0MjU2NjgyNjYsLT
+IxNDQzNTk4MywtMTcwNjcyNDc1NiwtMTcwODE3NjI4OSwxNzg1
+MTcyOTQ0LDE5MTM0NTg0MTgsLTEzODgxMzQ2NiwtOTY2MTczOT
+I2LDEwMjYzMjExNTEsLTk2NjE3MzkyNiwxMDI2MzIxMTUxLC05
+NjYxNzM5MjZdfQ==
 -->
