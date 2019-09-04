@@ -204,7 +204,8 @@ node fruits.fruitGroup
 The place holder define in `placeholder.xml` we have may type of place holder. But in this tutorial I just introduce two type are image place holder  is `imageframe` and text place holder is `text`
 
 ### 5.1 Image place holder
-To get image of product 
+To get image of product you need two step.  
+**The first step is define the place holder using place holder `imageframe` **
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <metadata>
@@ -254,7 +255,7 @@ Find statement `findstatements.xml` select panel statement load to InDesign pane
 </findstatements>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NjM2MjYyMyw0MzkyNzQ4MjUsLTE5MD
+eyJoaXN0b3J5IjpbMTk4MTUxMzI2NSw0MzkyNzQ4MjUsLTE5MD
 MxNjMyMzcsLTc0NjM2NDQzOCwxNzQxNzU3ODM3LDE3MDkzMDE2
 NzAsNTQ0NzEwMjQwLDE2MDcyNTE5NzcsMTQyNTY2ODI2NiwtMj
 E0NDM1OTgzLC0xNzA2NzI0NzU2LC0xNzA4MTc2Mjg5LDE3ODUx
