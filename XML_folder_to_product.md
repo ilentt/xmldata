@@ -212,10 +212,10 @@ in `<placeholder>` need define and initial value some attribute such as
 - `name` : name of place holder
 - `type` : type of place holder
 - `domain` : using group one or many place holder
-- `domainid` : 
+- `class` : `3` is 
 - `load` : xml query select attribute product in `datafile.xml`
 - `active` : `1` is enable and `0` is disable<br/>
-The rest other attributes are also requirement but in this step maybe blank or using default value is `0`
+The rest other attributes are also requirement but in this step maybe skip and leave blank or using default value is `0`
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <metadata>
@@ -226,7 +226,7 @@ The rest other attributes are also requirement but in this step maybe blank or u
 		<type>imageframe</type>
 		<domain>ILen Tutorial</domain>
 		<domainid>0</domainid>
-		<class>0</class>
+		<class>3</class>
 		<load>200</load>
 		<sync>0</sync>
 		<store>0</store>
@@ -308,11 +308,11 @@ Find statement `findstatements.xml` select panel statement load to InDesign pane
 </findstatements>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MDU5NzI3Niw3NjQ2MDY3MzEsMjgzND
-kzMDkwLDE5MTEyNzc4ODcsLTMzNDQzNTU1MiwxNzk5NzA1MDQ3
-LDQzOTI3NDgyNSwtMTkwMzE2MzIzNywtNzQ2MzY0NDM4LDE3ND
-E3NTc4MzcsMTcwOTMwMTY3MCw1NDQ3MTAyNDAsMTYwNzI1MTk3
-NywxNDI1NjY4MjY2LC0yMTQ0MzU5ODMsLTE3MDY3MjQ3NTYsLT
-E3MDgxNzYyODksMTc4NTE3Mjk0NCwxOTEzNDU4NDE4LC0xMzg4
-MTM0NjZdfQ==
+eyJoaXN0b3J5IjpbMTA2ODMxOTYwLDE2ODA1OTcyNzYsNzY0Nj
+A2NzMxLDI4MzQ5MzA5MCwxOTExMjc3ODg3LC0zMzQ0MzU1NTIs
+MTc5OTcwNTA0Nyw0MzkyNzQ4MjUsLTE5MDMxNjMyMzcsLTc0Nj
+M2NDQzOCwxNzQxNzU3ODM3LDE3MDkzMDE2NzAsNTQ0NzEwMjQw
+LDE2MDcyNTE5NzcsMTQyNTY2ODI2NiwtMjE0NDM1OTgzLC0xNz
+A2NzI0NzU2LC0xNzA4MTc2Mjg5LDE3ODUxNzI5NDQsMTkxMzQ1
+ODQxOF19
 -->
