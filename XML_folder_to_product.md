@@ -79,6 +79,8 @@ Data file `datafiles.xml` use definition data source need load into InDesign. Th
 	</datafile>
 </datafiles>
 ``` 
+Note: Data file have two type data are xml data and image. 
+
 #### Result after define data file
 ![result after define data file](https://i.imgur.com/gs34Ezb.png)
 
@@ -210,9 +212,10 @@ Find statement `findstatements.xml` select panel statement load to InDesign pane
 </findstatements>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDQzNTk4MywtMTcwNjcyNDc1NiwtMT
-cwODE3NjI4OSwxNzg1MTcyOTQ0LDE5MTM0NTg0MTgsLTEzODgx
-MzQ2NiwtOTY2MTczOTI2LDEwMjYzMjExNTEsLTk2NjE3MzkyNi
-wxMDI2MzIxMTUxLC05NjYxNzM5MjYsMTAyNjMyMTE1MSwxNTMw
-MTUzNDMxLC0xOTE4MDExODA2LDE5NTM1MzgxNzVdfQ==
+eyJoaXN0b3J5IjpbMzU1ODE1MDk2LC0yMTQ0MzU5ODMsLTE3MD
+Y3MjQ3NTYsLTE3MDgxNzYyODksMTc4NTE3Mjk0NCwxOTEzNDU4
+NDE4LC0xMzg4MTM0NjYsLTk2NjE3MzkyNiwxMDI2MzIxMTUxLC
+05NjYxNzM5MjYsMTAyNjMyMTE1MSwtOTY2MTczOTI2LDEwMjYz
+MjExNTEsMTUzMDE1MzQzMSwtMTkxODAxMTgwNiwxOTUzNTM4MT
+c1XX0=
 -->
