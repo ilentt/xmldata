@@ -278,18 +278,12 @@ To defined text place holder also similar define image place holder. You also ne
 
 1. xml query select attribute name of product fruit.
 ```
-"$DATAFILE"
-
+"$FRUITS"
 xmlget
-
-titel
-
-node cuisines.cuisineGroup
-
-where cuisineGroupID = <ID2>
-
-node cuisine
-
+name
+node fruits.fruitGroup
+where fruitGroupID = <ID2>
+node fruit
 where cuisineID = <ID>
 ```
 # x. Find statement 
@@ -312,7 +306,7 @@ Find statement `findstatements.xml` select panel statement load to InDesign pane
 </findstatements>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyOTYzNDkwMywyODM0OTMwOTAsMTkxMT
+eyJoaXN0b3J5IjpbLTY3MjM5MDM3MywyODM0OTMwOTAsMTkxMT
 I3Nzg4NywtMzM0NDM1NTUyLDE3OTk3MDUwNDcsNDM5Mjc0ODI1
 LC0xOTAzMTYzMjM3LC03NDYzNjQ0MzgsMTc0MTc1NzgzNywxNz
 A5MzAxNjcwLDU0NDcxMDI0MCwxNjA3MjUxOTc3LDE0MjU2Njgy
