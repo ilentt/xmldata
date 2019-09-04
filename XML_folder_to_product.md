@@ -1,4 +1,31 @@
-# 1. Data file
+# 
+# 1. Define product
+
+StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible
+
+#### example
+```xml
+<fruits>
+	<fruitGroup>
+		<fruitGroupID></fruitGroupID>
+		<name></name>
+		<description></description>
+		<fruitID></fruitID>
+		<fruit>
+			<name></name>
+			<image></image>
+			<country></country>
+			<description></description>
+			<unit></unit>
+			<ordernumber></ordernumber>
+			<price></price>
+		</fruit>
+		...one or more fruit...
+	</fruitGroup>
+	...one or more group...
+</fruits>
+```
+# 2. Data file
 Data file `datafiles.xml` use definition data source need load into InDesign. The data file structure have main five attributes are `id`, `path`, `alias`, `description` and `enable`
 ```xml
 <datafiles>
@@ -53,34 +80,6 @@ Data file `datafiles.xml` use definition data source need load into InDesign. Th
 ``` 
 #### Result after define data file
 ![result after define data file](https://i.imgur.com/gs34Ezb.png)
-
-
-# 2. Define product
-
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
-
-#### example
-```xml
-<fruits>
-	<fruitGroup>
-		<fruitGroupID></fruitGroupID>
-		<name></name>
-		<description></description>
-		<fruitID></fruitID>
-		<fruit>
-			<name></name>
-			<image></image>
-			<country></country>
-			<description></description>
-			<unit></unit>
-			<ordernumber></ordernumber>
-			<price></price>
-		</fruit>
-		...one or more fruit...
-	</fruitGroup>
-	...one or more group...
-</fruits>
-```
 
 # 3. Panel statement
 
@@ -209,19 +208,9 @@ Find statement `findstatements.xml` select panel statement load to InDesign pane
 	</findstatement>
 </findstatements>
 ```
-
-left side use for edit, and right side is show, this editor using markdown to format text. Example if you want bold
-
-**this is bold**
-
-**or you can using top tool bar**
-
-you also can export document to pdf, word, html and so on
-
-after edit or comment, remember synchrony to save to github
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMzQ1ODQxOCwtMTM4ODEzNDY2LC05Nj
-YxNzM5MjYsMTAyNjMyMTE1MSwtOTY2MTczOTI2LDEwMjYzMjEx
-NTEsLTk2NjE3MzkyNiwxMDI2MzIxMTUxLDE1MzAxNTM0MzEsLT
-E5MTgwMTE4MDYsMTk1MzUzODE3NV19
+eyJoaXN0b3J5IjpbLTE0OTU1NTQ4NDIsMTkxMzQ1ODQxOCwtMT
+M4ODEzNDY2LC05NjYxNzM5MjYsMTAyNjMyMTE1MSwtOTY2MTcz
+OTI2LDEwMjYzMjExNTEsLTk2NjE3MzkyNiwxMDI2MzIxMTUxLD
+E1MzAxNTM0MzEsLTE5MTgwMTE4MDYsMTk1MzUzODE3NV19
 -->
