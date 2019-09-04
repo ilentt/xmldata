@@ -261,6 +261,7 @@ node fruit where fruitID = <ID>
 - `$COMETDATA` : syntax must to have
 - `image` : attribute of product have already defined in `datafile.xml`
 - `5` : position image in frame, value `5` meaning middle center, you can try another value such as `4`, `6` etc.
+- `<ID> & <ID2>` : are current selected 
 # x. Find statement 
 
 Find statement `findstatements.xml` select panel statement load to InDesign panel.
@@ -281,11 +282,11 @@ Find statement `findstatements.xml` select panel statement load to InDesign pane
 </findstatements>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MjYwNzU3MSwxNzk5NzA1MDQ3LDQzOT
-I3NDgyNSwtMTkwMzE2MzIzNywtNzQ2MzY0NDM4LDE3NDE3NTc4
-MzcsMTcwOTMwMTY3MCw1NDQ3MTAyNDAsMTYwNzI1MTk3NywxND
-I1NjY4MjY2LC0yMTQ0MzU5ODMsLTE3MDY3MjQ3NTYsLTE3MDgx
-NzYyODksMTc4NTE3Mjk0NCwxOTEzNDU4NDE4LC0xMzg4MTM0Nj
-YsLTk2NjE3MzkyNiwxMDI2MzIxMTUxLC05NjYxNzM5MjYsMTAy
-NjMyMTE1MV19
+eyJoaXN0b3J5IjpbOTQxMjc2MjgsMTc5OTcwNTA0Nyw0MzkyNz
+Q4MjUsLTE5MDMxNjMyMzcsLTc0NjM2NDQzOCwxNzQxNzU3ODM3
+LDE3MDkzMDE2NzAsNTQ0NzEwMjQwLDE2MDcyNTE5NzcsMTQyNT
+Y2ODI2NiwtMjE0NDM1OTgzLC0xNzA2NzI0NzU2LC0xNzA4MTc2
+Mjg5LDE3ODUxNzI5NDQsMTkxMzQ1ODQxOCwtMTM4ODEzNDY2LC
+05NjYxNzM5MjYsMTAyNjMyMTE1MSwtOTY2MTczOTI2LDEwMjYz
+MjExNTFdfQ==
 -->
