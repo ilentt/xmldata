@@ -213,7 +213,7 @@ in `<placeholder>` need define and initial value some attribute such as
 - `type` : type of place holder
 - `domain` : using group one or many place holder
 - `domainid` : 
-- `load` : the 
+- `load` : xml query select 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <metadata>
@@ -263,7 +263,7 @@ Find statement `findstatements.xml` select panel statement load to InDesign pane
 </findstatements>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwOTQ0MDAyMiw0MzkyNzQ4MjUsLTE5MD
+eyJoaXN0b3J5IjpbMTgzMTk3MDk5MCw0MzkyNzQ4MjUsLTE5MD
 MxNjMyMzcsLTc0NjM2NDQzOCwxNzQxNzU3ODM3LDE3MDkzMDE2
 NzAsNTQ0NzEwMjQwLDE2MDcyNTE5NzcsMTQyNTY2ODI2NiwtMj
 E0NDM1OTgzLC0xNzA2NzI0NzU2LC0xNzA4MTc2Mjg5LDE3ODUx
