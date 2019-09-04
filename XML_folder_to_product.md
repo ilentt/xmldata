@@ -264,9 +264,11 @@ node fruit where fruitID = <ID>
 - `<ID> & <ID2>` : are current selected product in product panel
 3. After write you need save it, the script will be encrypt and stored in folder `actions`. In this example the script will named `200.crpt`. To update this script you have to declare in `Place Holder Values` at `load` input text position.
 
-After all your definition will be similar below example.
+After all your definition will be similar below example
+
 ![](https://i.imgur.com/4kuqr8j.png)
 
+**File
 # x. Find statement 
 
 Find statement `findstatements.xml` select panel statement load to InDesign panel.
@@ -287,7 +289,7 @@ Find statement `findstatements.xml` select panel statement load to InDesign pane
 </findstatements>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjA5NjI5NywxNzk5NzA1MDQ3LDQzOT
+eyJoaXN0b3J5IjpbLTI3ODI3NzAzNSwxNzk5NzA1MDQ3LDQzOT
 I3NDgyNSwtMTkwMzE2MzIzNywtNzQ2MzY0NDM4LDE3NDE3NTc4
 MzcsMTcwOTMwMTY3MCw1NDQ3MTAyNDAsMTYwNzI1MTk3NywxND
 I1NjY4MjY2LC0yMTQ0MzU5ODMsLTE3MDY3MjQ3NTYsLTE3MDgx
