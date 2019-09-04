@@ -212,7 +212,7 @@ in `<placeholder>` need define and initial value some attribute such as
 - `name` : name of place holder
 - `type` : type of place holder
 - `domain` : using group one or many place holder
-- `class` : `3` is 
+- `class` : `3` is product
 - `load` : xml query select attribute product in `datafile.xml`
 - `active` : `1` is enable and `0` is disable<br/>
 The rest other attributes are also requirement but in this step maybe skip and leave blank or using default value is `0`
@@ -308,11 +308,11 @@ Find statement `findstatements.xml` select panel statement load to InDesign pane
 </findstatements>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2ODMxOTYwLDE2ODA1OTcyNzYsNzY0Nj
-A2NzMxLDI4MzQ5MzA5MCwxOTExMjc3ODg3LC0zMzQ0MzU1NTIs
-MTc5OTcwNTA0Nyw0MzkyNzQ4MjUsLTE5MDMxNjMyMzcsLTc0Nj
-M2NDQzOCwxNzQxNzU3ODM3LDE3MDkzMDE2NzAsNTQ0NzEwMjQw
-LDE2MDcyNTE5NzcsMTQyNTY2ODI2NiwtMjE0NDM1OTgzLC0xNz
-A2NzI0NzU2LC0xNzA4MTc2Mjg5LDE3ODUxNzI5NDQsMTkxMzQ1
-ODQxOF19
+eyJoaXN0b3J5IjpbMTI3NjgwMTE0MSwxNjgwNTk3Mjc2LDc2ND
+YwNjczMSwyODM0OTMwOTAsMTkxMTI3Nzg4NywtMzM0NDM1NTUy
+LDE3OTk3MDUwNDcsNDM5Mjc0ODI1LC0xOTAzMTYzMjM3LC03ND
+YzNjQ0MzgsMTc0MTc1NzgzNywxNzA5MzAxNjcwLDU0NDcxMDI0
+MCwxNjA3MjUxOTc3LDE0MjU2NjgyNjYsLTIxNDQzNTk4MywtMT
+cwNjcyNDc1NiwtMTcwODE3NjI4OSwxNzg1MTcyOTQ0LDE5MTM0
+NTg0MThdfQ==
 -->
