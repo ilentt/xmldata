@@ -213,9 +213,9 @@ The place holder define in `placeholder.xml` we have may type of place holder. B
 		<description></description>
 		<type>imageframe</type>
 		<domain>ILen Tutorial</domain>
-		<domainid>2000</domainid>
+		<domainid>0</domainid>
 		<class>0</class>
-		<load>200</load>
+		<load>0</load>
 		<sync>0</sync>
 		<store>0</store>
 		<lov>0</lov>
@@ -253,7 +253,7 @@ Find statement `findstatements.xml` select panel statement load to InDesign pane
 </findstatements>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgxMDg3Njg1LC0xOTAzMTYzMjM3LC03ND
+eyJoaXN0b3J5IjpbNDM5Mjc0ODI1LC0xOTAzMTYzMjM3LC03ND
 YzNjQ0MzgsMTc0MTc1NzgzNywxNzA5MzAxNjcwLDU0NDcxMDI0
 MCwxNjA3MjUxOTc3LDE0MjU2NjgyNjYsLTIxNDQzNTk4MywtMT
 cwNjcyNDc1NiwtMTcwODE3NjI4OSwxNzg1MTcyOTQ0LDE5MTM0
