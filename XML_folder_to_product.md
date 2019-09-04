@@ -274,7 +274,7 @@ After all your definition will be similar below example
 ![](https://i.imgur.com/dBo3480.jpg)
 
 ### 5.1 Text place holder
-To defined text place holder also similar define image place holder
+To defined text place holder also similar define image place holder. You also need two step are define place holder and write xml query to select attribute of product.
 # x. Find statement 
 
 Find statement `findstatements.xml` select panel statement load to InDesign panel.
@@ -295,11 +295,11 @@ Find statement `findstatements.xml` select panel statement load to InDesign pane
 </findstatements>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4ODkwNDk3NiwyODM0OTMwOTAsMTkxMT
-I3Nzg4NywtMzM0NDM1NTUyLDE3OTk3MDUwNDcsNDM5Mjc0ODI1
-LC0xOTAzMTYzMjM3LC03NDYzNjQ0MzgsMTc0MTc1NzgzNywxNz
-A5MzAxNjcwLDU0NDcxMDI0MCwxNjA3MjUxOTc3LDE0MjU2Njgy
-NjYsLTIxNDQzNTk4MywtMTcwNjcyNDc1NiwtMTcwODE3NjI4OS
-wxNzg1MTcyOTQ0LDE5MTM0NTg0MTgsLTEzODgxMzQ2NiwtOTY2
-MTczOTI2XX0=
+eyJoaXN0b3J5IjpbLTE4NTQyODU1ODAsMjgzNDkzMDkwLDE5MT
+EyNzc4ODcsLTMzNDQzNTU1MiwxNzk5NzA1MDQ3LDQzOTI3NDgy
+NSwtMTkwMzE2MzIzNywtNzQ2MzY0NDM4LDE3NDE3NTc4MzcsMT
+cwOTMwMTY3MCw1NDQ3MTAyNDAsMTYwNzI1MTk3NywxNDI1NjY4
+MjY2LC0yMTQ0MzU5ODMsLTE3MDY3MjQ3NTYsLTE3MDgxNzYyOD
+ksMTc4NTE3Mjk0NCwxOTEzNDU4NDE4LC0xMzg4MTM0NjYsLTk2
+NjE3MzkyNl19
 -->
