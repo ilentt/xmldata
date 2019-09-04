@@ -274,7 +274,7 @@ After all your definition will be similar below example
 ![](https://i.imgur.com/dBo3480.jpg)
 
 ### 5.1 Text place holder
-To defined text place holder also similar define image place holder. You also need two step are define place holder and write xml query to select attribute of product.
+To defined text place holder also similar define image place holder. You also need two step are define place holder and write xml query to select attribute of product. The differences point is xml query. In 
 # x. Find statement 
 
 Find statement `findstatements.xml` select panel statement load to InDesign panel.
@@ -295,7 +295,7 @@ Find statement `findstatements.xml` select panel statement load to InDesign pane
 </findstatements>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTQyODU1ODAsMjgzNDkzMDkwLDE5MT
+eyJoaXN0b3J5IjpbLTEzMzk1NDkyNTEsMjgzNDkzMDkwLDE5MT
 EyNzc4ODcsLTMzNDQzNTU1MiwxNzk5NzA1MDQ3LDQzOTI3NDgy
 NSwtMTkwMzE2MzIzNywtNzQ2MzY0NDM4LDE3NDE3NTc4MzcsMT
 cwOTMwMTY3MCw1NDQ3MTAyNDAsMTYwNzI1MTk3NywxNDI1NjY4
