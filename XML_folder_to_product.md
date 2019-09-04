@@ -2,7 +2,8 @@
 
 To defined product you should organization your product have one or many parent and child. Each parent or child always have one or many attribute depend on your product or business requirement. The product maybe Book, Fashion, Food, Machine component, etc.
 
-Below example I de
+Below example I defined my product is the fruit. The fruit have two level parent and child. 
+The 
 
 #### Example:
 ```xml
@@ -210,9 +211,9 @@ Find statement `findstatements.xml` select panel statement load to InDesign pane
 </findstatements>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg4MjE5NjM3LC0xNzA2NzI0NzU2LC0xNz
-A4MTc2Mjg5LDE3ODUxNzI5NDQsMTkxMzQ1ODQxOCwtMTM4ODEz
-NDY2LC05NjYxNzM5MjYsMTAyNjMyMTE1MSwtOTY2MTczOTI2LD
-EwMjYzMjExNTEsLTk2NjE3MzkyNiwxMDI2MzIxMTUxLDE1MzAx
-NTM0MzEsLTE5MTgwMTE4MDYsMTk1MzUzODE3NV19
+eyJoaXN0b3J5IjpbMjA5OTc2NjY5NiwtMTcwNjcyNDc1NiwtMT
+cwODE3NjI4OSwxNzg1MTcyOTQ0LDE5MTM0NTg0MTgsLTEzODgx
+MzQ2NiwtOTY2MTczOTI2LDEwMjYzMjExNTEsLTk2NjE3MzkyNi
+wxMDI2MzIxMTUxLC05NjYxNzM5MjYsMTAyNjMyMTE1MSwxNTMw
+MTUzNDMxLC0xOTE4MDExODA2LDE5NTM1MzgxNzVdfQ==
 -->
