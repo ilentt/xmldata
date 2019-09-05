@@ -2,7 +2,7 @@
 
 To defined product you should organization your product have one or many parent and child. Each parent or child always have one or many attribute depend on your product or business requirement. The product maybe Book, Fashion, Food, Machine component, etc.
 
-Below example I defined my product is the fruit. The fruit have two type or more type are fruit from Tropical and other from Temperate Regions or Frigid Regions. Each fruit have some attribute such as id, name, image, country, description, unit, order number, price. The fruit store in the file `fruit.xml`
+Below example I defined my product is the fruit. The fruit have two or more type of fruit such as from Tropical, from Temperate Regions or Frigid Regions. Each fruit have some attribute such as id, name, image, country, description, unit, order number, price. The fruit store in the file `fruit.xml`
 
 #### Example:
 ```xml
@@ -311,11 +311,11 @@ Find statement `findstatements.xml` select panel statement load to InDesign pane
 </findstatements>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMDY1NjE1MiwtMTI2ODI1NTUzNiwtMT
-U3NjkwNDcwMywtMTI2ODI1NTUzNiwxNzk4Njc3MTExLDEyMTc0
-MDE5LDE2ODA1OTcyNzYsNzY0NjA2NzMxLDI4MzQ5MzA5MCwxOT
-ExMjc3ODg3LC0zMzQ0MzU1NTIsMTc5OTcwNTA0Nyw0MzkyNzQ4
-MjUsLTE5MDMxNjMyMzcsLTc0NjM2NDQzOCwxNzQxNzU3ODM3LD
-E3MDkzMDE2NzAsNTQ0NzEwMjQwLDE2MDcyNTE5NzcsMTQyNTY2
-ODI2Nl19
+eyJoaXN0b3J5IjpbMjAzNTA0NzE2MywtOTIwNjU2MTUyLC0xMj
+Y4MjU1NTM2LC0xNTc2OTA0NzAzLC0xMjY4MjU1NTM2LDE3OTg2
+NzcxMTEsMTIxNzQwMTksMTY4MDU5NzI3Niw3NjQ2MDY3MzEsMj
+gzNDkzMDkwLDE5MTEyNzc4ODcsLTMzNDQzNTU1MiwxNzk5NzA1
+MDQ3LDQzOTI3NDgyNSwtMTkwMzE2MzIzNywtNzQ2MzY0NDM4LD
+E3NDE3NTc4MzcsMTcwOTMwMTY3MCw1NDQ3MTAyNDAsMTYwNzI1
+MTk3N119
 -->
