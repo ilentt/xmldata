@@ -162,7 +162,10 @@ orderby fruitID
 		<id>10000</id>
 		<usage>Level 2, fruit</usage>
 		<domain>Select all fruit, the child of fruitGroup by Id</domain>
-		<statement>&#34;$FRUITS&#34;&#10;select fruitID, &lt;parent.ID&gt;, 0,&#10;3,&#10;2022,&#10;name, '',&#10;toDelete,&#10;0,&#10;0, &#34;&#34;,&#10;&#34;&#34;, &#34;&#34;, 0, 0,&#10;pageitemid&#10;node fruits.fruitGroup&#10;where fruitGroupID = &lt;parent.ID&gt;&#10;node fruit&#10;orderby fruitID</statement>
+		<statement>&#34;$FRUITS&#34;&#10;select fruitID, &lt;parent.ID&gt;, 0,&#10;3,&#10;2022,
+		&#10;name,'',&#10;toDelete,&#10;0,&#10;0, &#34;&#34;,&#10;&#34;&#34;, &#34;&#34;, 0, 0,
+		&#10;pageitemid&#10;node fruits.fruitGroup&#10;where fruitGroupID = &lt;parent.ID&gt;
+		&#10;node fruit&#10;orderby fruitID</statement>
 		<in_parameters></in_parameters>
 		<out_parameters></out_parameters>
 		<description>Level 2, Product</description>
@@ -313,11 +316,11 @@ Find statement `findstatements.xml` select panel statement load to InDesign pane
 </findstatements>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgxNDk0NDE3LC0xNzQ3OTc4NzU3LDIwMz
-UwNDcxNjMsLTkyMDY1NjE1MiwtMTI2ODI1NTUzNiwtMTU3Njkw
-NDcwMywtMTI2ODI1NTUzNiwxNzk4Njc3MTExLDEyMTc0MDE5LD
-E2ODA1OTcyNzYsNzY0NjA2NzMxLDI4MzQ5MzA5MCwxOTExMjc3
-ODg3LC0zMzQ0MzU1NTIsMTc5OTcwNTA0Nyw0MzkyNzQ4MjUsLT
-E5MDMxNjMyMzcsLTc0NjM2NDQzOCwxNzQxNzU3ODM3LDE3MDkz
-MDE2NzBdfQ==
+eyJoaXN0b3J5IjpbLTY2NjkzOTA3MywyODE0OTQ0MTcsLTE3ND
+c5Nzg3NTcsMjAzNTA0NzE2MywtOTIwNjU2MTUyLC0xMjY4MjU1
+NTM2LC0xNTc2OTA0NzAzLC0xMjY4MjU1NTM2LDE3OTg2NzcxMT
+EsMTIxNzQwMTksMTY4MDU5NzI3Niw3NjQ2MDY3MzEsMjgzNDkz
+MDkwLDE5MTEyNzc4ODcsLTMzNDQzNTU1MiwxNzk5NzA1MDQ3LD
+QzOTI3NDgyNSwtMTkwMzE2MzIzNywtNzQ2MzY0NDM4LDE3NDE3
+NTc4MzddfQ==
 -->
