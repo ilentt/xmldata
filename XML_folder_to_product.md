@@ -193,7 +193,9 @@ node fruits.fruitGroup
 		<id>55</id>
 		<usage>Level 1, fruitGroup</usage>
 		<domain>Select all fruit group at level 1 by fruitGroupID and Name</domain>
-		<statement>&#34;$FRUITS&#34;&#10;select fruitGroupID, 0, 0,&#10;3,&#10;2069,&#10;name, '',&#10;0,&#10;10000,&#10;0, &#34;&#34;,&#10;&#34;&#34;, &#34;&#34;, 0, 0,&#10;0&#10;node fruits.fruitGroup</statement>
+		<statement>&#34;$FRUITS&#34;&#10;select fruitGroupID, 0, 0,&#10;3,&#10;2069,
+		&#10;name, '',&#10;0,&#10;10000,&#10;0, &#34;&#34;,&#10;&#34;&#34;, &#34;&#34;, 
+		0, 0,&#10;0&#10;node fruits.fruitGroup</statement>
 		<in_parameters></in_parameters>
 		<out_parameters></out_parameters>
 		<description>!! There will be max. 100 products loaded !!</description>
@@ -316,11 +318,11 @@ Find statement `findstatements.xml` select panel statement load to InDesign pane
 </findstatements>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NjkzOTA3MywyODE0OTQ0MTcsLTE3ND
-c5Nzg3NTcsMjAzNTA0NzE2MywtOTIwNjU2MTUyLC0xMjY4MjU1
-NTM2LC0xNTc2OTA0NzAzLC0xMjY4MjU1NTM2LDE3OTg2NzcxMT
-EsMTIxNzQwMTksMTY4MDU5NzI3Niw3NjQ2MDY3MzEsMjgzNDkz
-MDkwLDE5MTEyNzc4ODcsLTMzNDQzNTU1MiwxNzk5NzA1MDQ3LD
-QzOTI3NDgyNSwtMTkwMzE2MzIzNywtNzQ2MzY0NDM4LDE3NDE3
-NTc4MzddfQ==
+eyJoaXN0b3J5IjpbNDQ2Mjc1ODM1LC02NjY5MzkwNzMsMjgxND
+k0NDE3LC0xNzQ3OTc4NzU3LDIwMzUwNDcxNjMsLTkyMDY1NjE1
+MiwtMTI2ODI1NTUzNiwtMTU3NjkwNDcwMywtMTI2ODI1NTUzNi
+wxNzk4Njc3MTExLDEyMTc0MDE5LDE2ODA1OTcyNzYsNzY0NjA2
+NzMxLDI4MzQ5MzA5MCwxOTExMjc3ODg3LC0zMzQ0MzU1NTIsMT
+c5OTcwNTA0Nyw0MzkyNzQ4MjUsLTE5MDMxNjMyMzcsLTc0NjM2
+NDQzOF19
 -->
