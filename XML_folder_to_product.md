@@ -200,10 +200,10 @@ node fruits.fruitGroup
 
 **Caution:** don't modifies default `<panelstatement>` if you don't clearly understand what you do. More detail document at `InDesign/Plugins/products.html#Rueckgabewerte`
 
-# 5. Create place holder
+# 4. Create place holder
 The place holder define in `placeholder.xml` we have may type of place holder. But in this tutorial I just introduce two type are image place holder  is `imageframe` and text place holder is `text`
 
-### 5.1. Image place holder
+### 4.1. Image place holder
 To get image of product you need two step.  
 
 **Step 1:**  Define the place holder using place holder type `imageframe`<br/>
@@ -273,7 +273,7 @@ After all your definition will be similar below example
 **Finally:** checking your work, if everything is correctly your result will be similar below example.
 ![](https://i.imgur.com/dBo3480.jpg)
 
-### 5.2. Text place holder
+### 4.2. Text place holder
 To defined text place holder also similar define image place holder. You also need two step are define place holder and write xml query to select attribute of product. The differences point is xml query. In this example you will select attribute `name` and `description` of product fruit.
 
 XML query select attribute `name` of product fruit. Totally similar with `description`, just replace `name` by `description` you can do the same way for other attribute such as `country`, `unit`, `prices`, etc
@@ -288,7 +288,7 @@ where fruitID = <ID>
 ```
 ![create some text place holder](https://i.imgur.com/4Fu6oMe.png)
 
-### 5.3. Final result, combine image and text place holder together to build a complete product.
+### 4.3. Final result, combine image and text place holder together to build a complete product.
 ![](https://i.imgur.com/bSJP9UR.jpg)
 Using direct link https://i.imgur.com/bSJP9UR.jpg in case can not view.
 # x. Find statement 
@@ -311,11 +311,11 @@ Find statement `findstatements.xml` select panel statement load to InDesign pane
 </findstatements>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNTA0NzE2MywtOTIwNjU2MTUyLC0xMj
-Y4MjU1NTM2LC0xNTc2OTA0NzAzLC0xMjY4MjU1NTM2LDE3OTg2
-NzcxMTEsMTIxNzQwMTksMTY4MDU5NzI3Niw3NjQ2MDY3MzEsMj
-gzNDkzMDkwLDE5MTEyNzc4ODcsLTMzNDQzNTU1MiwxNzk5NzA1
-MDQ3LDQzOTI3NDgyNSwtMTkwMzE2MzIzNywtNzQ2MzY0NDM4LD
-E3NDE3NTc4MzcsMTcwOTMwMTY3MCw1NDQ3MTAyNDAsMTYwNzI1
-MTk3N119
+eyJoaXN0b3J5IjpbLTE3NDc5Nzg3NTcsMjAzNTA0NzE2MywtOT
+IwNjU2MTUyLC0xMjY4MjU1NTM2LC0xNTc2OTA0NzAzLC0xMjY4
+MjU1NTM2LDE3OTg2NzcxMTEsMTIxNzQwMTksMTY4MDU5NzI3Ni
+w3NjQ2MDY3MzEsMjgzNDkzMDkwLDE5MTEyNzc4ODcsLTMzNDQz
+NTU1MiwxNzk5NzA1MDQ3LDQzOTI3NDgyNSwtMTkwMzE2MzIzNy
+wtNzQ2MzY0NDM4LDE3NDE3NTc4MzcsMTcwOTMwMTY3MCw1NDQ3
+MTAyNDBdfQ==
 -->
