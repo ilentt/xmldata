@@ -211,7 +211,7 @@ node fruits.fruitGroup
 The place holder define in `placeholder.xml` we have may type of place holder. But in this tutorial I just introduce two type are image place holder  is `imageframe` and text place holder is `text`
 
 ### 4.1. Image place holder
-To get image of product you need two step.  
+To get image of product you need two steps.  
 
 **Step 1:**  Define the place holder using place holder type `imageframe`<br/>
 in `<placeholder>` need define and initial value some attribute such as
@@ -318,11 +318,11 @@ Find statement `findstatements.xml` select panel statement load to InDesign pane
 </findstatements>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ2Mjc1ODM1LC02NjY5MzkwNzMsMjgxND
-k0NDE3LC0xNzQ3OTc4NzU3LDIwMzUwNDcxNjMsLTkyMDY1NjE1
-MiwtMTI2ODI1NTUzNiwtMTU3NjkwNDcwMywtMTI2ODI1NTUzNi
-wxNzk4Njc3MTExLDEyMTc0MDE5LDE2ODA1OTcyNzYsNzY0NjA2
-NzMxLDI4MzQ5MzA5MCwxOTExMjc3ODg3LC0zMzQ0MzU1NTIsMT
-c5OTcwNTA0Nyw0MzkyNzQ4MjUsLTE5MDMxNjMyMzcsLTc0NjM2
-NDQzOF19
+eyJoaXN0b3J5IjpbLTEyNDg3MTcxMDYsNDQ2Mjc1ODM1LC02Nj
+Y5MzkwNzMsMjgxNDk0NDE3LC0xNzQ3OTc4NzU3LDIwMzUwNDcx
+NjMsLTkyMDY1NjE1MiwtMTI2ODI1NTUzNiwtMTU3NjkwNDcwMy
+wtMTI2ODI1NTUzNiwxNzk4Njc3MTExLDEyMTc0MDE5LDE2ODA1
+OTcyNzYsNzY0NjA2NzMxLDI4MzQ5MzA5MCwxOTExMjc3ODg3LC
+0zMzQ0MzU1NTIsMTc5OTcwNTA0Nyw0MzkyNzQ4MjUsLTE5MDMx
+NjMyMzddfQ==
 -->
